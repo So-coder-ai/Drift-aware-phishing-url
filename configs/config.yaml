@@ -1,0 +1,71 @@
+# Copy this project to /kaggle/working/charcnn before running a notebook.
+# All data products and model artifacts are intentionally written below
+# /kaggle/working; attached Kaggle Datasets are read only under /kaggle/input.
+project:
+  name: charcnn_deepurlbench_temporal
+  seed: 2025
+
+dataset:
+  repository: davanstrien/DeepURLBench
+  config: urls_without_dns
+  split: train
+  url_column: url
+  date_column: first_seen
+  label_column: label
+  allowed_labels: ["benign", "phishing"]
+  excluded_labels: ["mal"]
+
+# September and October 2022 are deliberately omitted: the audit found no
+# benign URLs in those months. They are neither train nor validation nor test.
+skipped_periods:
+  - start: "2022-09-01"
+    end: "2022-10-31"
+
+splits:
+  train:
+    start: "2021-07-01"
+    end: "2022-08-31"
+  validation:
+    start: "2022-11-01"
+    end: "2022-11-30"
+  test:
+    start: "2022-12-01"
+    end: "2023-02-28"
+
+labels:
+  label_map:
+    benign: 0
+    phishing: 1
+
+paths:
+  working_dir: /kaggle/working/charcnn
+  data_dir: /kaggle/working/charcnn/data
+  artifact_dir: /kaggle/working/charcnn/artifacts
+  hf_cache_dir: /kaggle/working/charcnn/hf_cache
+
+# This is retained for the later training/test modules. The data audit always
+# audits full date coverage and writes the complete chronological split files.
+runtime:
+  small_run: false
+  small_run_rows_per_split: 50000
+  num_workers: 2
+  mixed_precision: true
+
+model:
+  max_length: 200
+  char_embedding_dim: 32
+  channels: [128, 128, 128]
+  kernel_sizes: [3, 5, 7]
+  dropout: 0.30
+  embedding_dim: 128
+
+training:
+  epochs: 8
+  batch_size: 512
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  early_stopping_patience: 2
+  threshold_grid_start: 0.10
+  threshold_grid_end: 0.90
+  threshold_grid_step: 0.01
+  mmd_reference_max_rows: 50000

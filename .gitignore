@@ -1,0 +1,18 @@
+# Kaggle-generated data, checkpoints, and notebook runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+hf_cache/
+data/*.parquet
+data/*.json
+data/*.csv
+artifacts/
+*.pt
+*.ckpt
+*.log
+
+# Keep empty layout directories in Git.
+!data_manifest/.gitkeep
+!outputs/.gitkeep
+!figures/.gitkeep
+!models/.gitkeep
