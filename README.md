@@ -32,6 +32,11 @@ figures/                   # loss and drift figures (Kaggle outputs)
 models/                    # small metadata only; model weights live in Kaggle output
 ```
 
+The repository includes a [split manifest](data_manifest/README.md), a
+[model-artifact guide](models/README.md), a [results summary](outputs/results_summary.md),
+and a [figure plan](figures/README.md). Large data files, weights, embeddings,
+and prediction streams remain in private Kaggle Datasets.
+
 ## Kaggle workflow
 
 1. Attach this repository as a Kaggle Dataset, enable Internet, and open
