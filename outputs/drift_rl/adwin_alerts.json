@@ -1,0 +1,3874 @@
+[
+  {
+    "index": 2816,
+    "date": "2022-12-01 03:36:42",
+    "old_error_mean": 0.04818221638195357,
+    "new_error_mean": 0.14634146341463414,
+    "cut": 2283,
+    "window_after": 533
+  },
+  {
+    "index": 7680,
+    "date": "2022-12-01 10:24:31",
+    "old_error_mean": 0.08713692946058091,
+    "new_error_mean": 0.0291646070192783,
+    "cut": 3374,
+    "window_after": 2023
+  },
+  {
+    "index": 21248,
+    "date": "2022-12-01 15:25:39",
+    "old_error_mean": 0.03526734926052332,
+    "new_error_mean": 0.07468780019212296,
+    "cut": 11427,
+    "window_after": 4164
+  },
+  {
+    "index": 34304,
+    "date": "2022-12-02 03:30:14",
+    "old_error_mean": 0.06346070745107722,
+    "new_error_mean": 0.12830558276199805,
+    "cut": 16199,
+    "window_after": 1021
+  },
+  {
+    "index": 34560,
+    "date": "2022-12-02 03:47:56",
+    "old_error_mean": 0.05263157894736842,
+    "new_error_mean": 0.17320261437908496,
+    "cut": 665,
+    "window_after": 612
+  },
+  {
+    "index": 34816,
+    "date": "2022-12-02 04:22:37",
+    "old_error_mean": 0.21806853582554517,
+    "new_error_mean": 0.07678244972577697,
+    "cut": 321,
+    "window_after": 547
+  },
+  {
+    "index": 35072,
+    "date": "2022-12-02 05:06:44",
+    "old_error_mean": 0.265625,
+    "new_error_mean": 0.0725925925925926,
+    "cut": 128,
+    "window_after": 675
+  },
+  {
+    "index": 36352,
+    "date": "2022-12-02 08:27:50",
+    "old_error_mean": 0.012626262626262626,
+    "new_error_mean": 0.13983322642719692,
+    "cut": 396,
+    "window_after": 1559
+  },
+  {
+    "index": 36608,
+    "date": "2022-12-02 08:30:33",
+    "old_error_mean": 0.09047619047619047,
+    "new_error_mean": 0.24548286604361372,
+    "cut": 210,
+    "window_after": 1605
+  },
+  {
+    "index": 36864,
+    "date": "2022-12-02 08:42:37",
+    "old_error_mean": 0.12837837837837837,
+    "new_error_mean": 0.3156549520766773,
+    "cut": 296,
+    "window_after": 1565
+  },
+  {
+    "index": 37120,
+    "date": "2022-12-02 09:11:18",
+    "old_error_mean": 0.0625,
+    "new_error_mean": 0.29946839929119906,
+    "cut": 128,
+    "window_after": 1693
+  },
+  {
+    "index": 37376,
+    "date": "2022-12-02 09:35:30",
+    "old_error_mean": 0.03125,
+    "new_error_mean": 0.2883031301482702,
+    "cut": 128,
+    "window_after": 1821
+  },
+  {
+    "index": 37632,
+    "date": "2022-12-02 09:53:59",
+    "old_error_mean": 0.08968609865470852,
+    "new_error_mean": 0.28047464940668826,
+    "cut": 223,
+    "window_after": 1854
+  },
+  {
+    "index": 37888,
+    "date": "2022-12-02 10:16:35",
+    "old_error_mean": 0.12444444444444444,
+    "new_error_mean": 0.26578249336870025,
+    "cut": 225,
+    "window_after": 1885
+  },
+  {
+    "index": 38144,
+    "date": "2022-12-02 10:42:24",
+    "old_error_mean": 0.078125,
+    "new_error_mean": 0.26030799801291604,
+    "cut": 128,
+    "window_after": 2013
+  },
+  {
+    "index": 38400,
+    "date": "2022-12-02 11:08:30",
+    "old_error_mean": 0.41201716738197425,
+    "new_error_mean": 0.2156188605108055,
+    "cut": 233,
+    "window_after": 2036
+  },
+  {
+    "index": 38656,
+    "date": "2022-12-02 11:37:27",
+    "old_error_mean": 0.7578125,
+    "new_error_mean": 0.16589648798521256,
+    "cut": 128,
+    "window_after": 2164
+  },
+  {
+    "index": 38912,
+    "date": "2022-12-02 12:15:00",
+    "old_error_mean": 0.8046875,
+    "new_error_mean": 0.11823734729493891,
+    "cut": 128,
+    "window_after": 2292
+  },
+  {
+    "index": 39168,
+    "date": "2022-12-02 12:41:20",
+    "old_error_mean": 0.875,
+    "new_error_mean": 0.07355371900826446,
+    "cut": 128,
+    "window_after": 2420
+  },
+  {
+    "index": 42240,
+    "date": "2022-12-02 14:56:17",
+    "old_error_mean": 0.08072174738841406,
+    "new_error_mean": 0.02571795970852979,
+    "cut": 3159,
+    "window_after": 2333
+  },
+  {
+    "index": 48896,
+    "date": "2022-12-02 20:00:13",
+    "old_error_mean": 0.03400075557234605,
+    "new_error_mean": 0.0982824427480916,
+    "cut": 7941,
+    "window_after": 1048
+  },
+  {
+    "index": 52480,
+    "date": "2022-12-03 04:37:46",
+    "old_error_mean": 0.06857009127076995,
+    "new_error_mean": 0.20334261838440112,
+    "cut": 4273,
+    "window_after": 359
+  },
+  {
+    "index": 52736,
+    "date": "2022-12-03 05:15:46",
+    "old_error_mean": 0.2747747747747748,
+    "new_error_mean": 0.10941475826972011,
+    "cut": 222,
+    "window_after": 393
+  },
+  {
+    "index": 56320,
+    "date": "2022-12-03 13:24:16",
+    "old_error_mean": 0.08992680376437784,
+    "new_error_mean": 0.019855595667870037,
+    "cut": 2869,
+    "window_after": 1108
+  },
+  {
+    "index": 63744,
+    "date": "2022-12-03 17:17:37",
+    "old_error_mean": 0.026022304832713755,
+    "new_error_mean": 0.109,
+    "cut": 7532,
+    "window_after": 1000
+  },
+  {
+    "index": 64000,
+    "date": "2022-12-03 17:46:42",
+    "old_error_mean": 0.02575107296137339,
+    "new_error_mean": 0.19257086999022482,
+    "cut": 233,
+    "window_after": 1023
+  },
+  {
+    "index": 64256,
+    "date": "2022-12-03 18:39:07",
+    "old_error_mean": 0.09498207885304659,
+    "new_error_mean": 0.22330097087378642,
+    "cut": 558,
+    "window_after": 721
+  },
+  {
+    "index": 64512,
+    "date": "2022-12-03 19:25:37",
+    "old_error_mean": 0.3112033195020747,
+    "new_error_mean": 0.13179347826086957,
+    "cut": 241,
+    "window_after": 736
+  },
+  {
+    "index": 64768,
+    "date": "2022-12-03 19:55:59",
+    "old_error_mean": 0.4765625,
+    "new_error_mean": 0.1388888888888889,
+    "cut": 128,
+    "window_after": 864
+  },
+  {
+    "index": 65024,
+    "date": "2022-12-03 20:22:49",
+    "old_error_mean": 0.06053811659192825,
+    "new_error_mean": 0.19584569732937684,
+    "cut": 446,
+    "window_after": 674
+  },
+  {
+    "index": 65280,
+    "date": "2022-12-03 21:08:39",
+    "old_error_mean": 0.05521472392638037,
+    "new_error_mean": 0.22685788787483702,
+    "cut": 163,
+    "window_after": 767
+  },
+  {
+    "index": 65536,
+    "date": "2022-12-03 22:02:39",
+    "old_error_mean": 0.4166666666666667,
+    "new_error_mean": 0.13801169590643275,
+    "cut": 168,
+    "window_after": 855
+  },
+  {
+    "index": 66048,
+    "date": "2022-12-04 00:02:49",
+    "old_error_mean": 0.20238095238095238,
+    "new_error_mean": 0.08764519535374868,
+    "cut": 420,
+    "window_after": 947
+  },
+  {
+    "index": 68352,
+    "date": "2022-12-04 05:36:03",
+    "old_error_mean": 0.0946012877662209,
+    "new_error_mean": 0.1680194805194805,
+    "cut": 2019,
+    "window_after": 1232
+  },
+  {
+    "index": 68608,
+    "date": "2022-12-04 06:38:06",
+    "old_error_mean": 0.09292035398230089,
+    "new_error_mean": 0.20752895752895753,
+    "cut": 452,
+    "window_after": 1036
+  },
+  {
+    "index": 68864,
+    "date": "2022-12-04 07:48:05",
+    "old_error_mean": 0.10115606936416185,
+    "new_error_mean": 0.22832980972515857,
+    "cut": 346,
+    "window_after": 946
+  },
+  {
+    "index": 69120,
+    "date": "2022-12-04 08:59:42",
+    "old_error_mean": 0.3211009174311927,
+    "new_error_mean": 0.17485714285714285,
+    "cut": 327,
+    "window_after": 875
+  },
+  {
+    "index": 70400,
+    "date": "2022-12-04 12:25:38",
+    "old_error_mean": 0.15544608648056923,
+    "new_error_mean": 0.2926829268292683,
+    "cut": 1827,
+    "window_after": 328
+  },
+  {
+    "index": 70656,
+    "date": "2022-12-04 12:43:16",
+    "old_error_mean": 0.078125,
+    "new_error_mean": 0.3706140350877193,
+    "cut": 128,
+    "window_after": 456
+  },
+  {
+    "index": 70912,
+    "date": "2022-12-04 13:52:41",
+    "old_error_mean": 0.5,
+    "new_error_mean": 0.21404109589041095,
+    "cut": 128,
+    "window_after": 584
+  },
+  {
+    "index": 71168,
+    "date": "2022-12-04 14:39:53",
+    "old_error_mean": 0.375,
+    "new_error_mean": 0.125,
+    "cut": 128,
+    "window_after": 712
+  },
+  {
+    "index": 71424,
+    "date": "2022-12-04 15:18:04",
+    "old_error_mean": 0.2545454545454545,
+    "new_error_mean": 0.0821917808219178,
+    "cut": 165,
+    "window_after": 803
+  },
+  {
+    "index": 77824,
+    "date": "2022-12-04 19:05:25",
+    "old_error_mean": 0.07284961966062024,
+    "new_error_mean": 0.026684280052840157,
+    "cut": 3418,
+    "window_after": 3785
+  },
+  {
+    "index": 79360,
+    "date": "2022-12-04 20:51:25",
+    "old_error_mean": 0.02679658952496955,
+    "new_error_mean": 0.1518987341772152,
+    "cut": 4926,
+    "window_after": 395
+  },
+  {
+    "index": 82432,
+    "date": "2022-12-05 05:14:07",
+    "old_error_mean": 0.15053763440860216,
+    "new_error_mean": 0.07880910683012259,
+    "cut": 2325,
+    "window_after": 1142
+  },
+  {
+    "index": 82944,
+    "date": "2022-12-05 06:45:11",
+    "old_error_mean": 0.08608815426997245,
+    "new_error_mean": 0.24752475247524752,
+    "cut": 1452,
+    "window_after": 202
+  },
+  {
+    "index": 83200,
+    "date": "2022-12-05 07:18:08",
+    "old_error_mean": 0.29559748427672955,
+    "new_error_mean": 0.07023411371237458,
+    "cut": 159,
+    "window_after": 299
+  },
+  {
+    "index": 83456,
+    "date": "2022-12-05 07:49:00",
+    "old_error_mean": 0.06976744186046512,
+    "new_error_mean": 0.24015748031496062,
+    "cut": 301,
+    "window_after": 254
+  },
+  {
+    "index": 83712,
+    "date": "2022-12-05 08:11:07",
+    "old_error_mean": 0.24904214559386972,
+    "new_error_mean": 0.06827309236947791,
+    "cut": 261,
+    "window_after": 249
+  },
+  {
+    "index": 86528,
+    "date": "2022-12-05 10:25:37",
+    "old_error_mean": 0.1083676268861454,
+    "new_error_mean": 0.03298070939639079,
+    "cut": 1458,
+    "window_after": 1607
+  },
+  {
+    "index": 90368,
+    "date": "2022-12-05 12:12:50",
+    "old_error_mean": 0.031396879112615156,
+    "new_error_mean": 0.28125,
+    "cut": 5319,
+    "window_after": 128
+  },
+  {
+    "index": 90624,
+    "date": "2022-12-05 12:19:08",
+    "old_error_mean": 0.23293172690763053,
+    "new_error_mean": 0.014814814814814815,
+    "cut": 249,
+    "window_after": 135
+  },
+  {
+    "index": 93184,
+    "date": "2022-12-05 13:32:48",
+    "old_error_mean": 0.028738431563565515,
+    "new_error_mean": 0.12461059190031153,
+    "cut": 2053,
+    "window_after": 642
+  },
+  {
+    "index": 93440,
+    "date": "2022-12-05 13:52:24",
+    "old_error_mean": 0.024242424242424242,
+    "new_error_mean": 0.1602112676056338,
+    "cut": 330,
+    "window_after": 568
+  },
+  {
+    "index": 93696,
+    "date": "2022-12-05 14:15:21",
+    "old_error_mean": 0.242914979757085,
+    "new_error_mean": 0.06932409012131716,
+    "cut": 247,
+    "window_after": 577
+  },
+  {
+    "index": 94208,
+    "date": "2022-12-05 14:54:24",
+    "old_error_mean": 0.05910735826296743,
+    "new_error_mean": 0.2,
+    "cut": 829,
+    "window_after": 260
+  },
+  {
+    "index": 94720,
+    "date": "2022-12-05 15:29:40",
+    "old_error_mean": 0.24401913875598086,
+    "new_error_mean": 0.06394316163410302,
+    "cut": 209,
+    "window_after": 563
+  },
+  {
+    "index": 96768,
+    "date": "2022-12-05 17:24:56",
+    "old_error_mean": 0.06537186167693036,
+    "new_error_mean": 0.166,
+    "cut": 2111,
+    "window_after": 500
+  },
+  {
+    "index": 97792,
+    "date": "2022-12-05 18:35:41",
+    "old_error_mean": 0.19035532994923857,
+    "new_error_mean": 0.07345132743362832,
+    "cut": 394,
+    "window_after": 1130
+  },
+  {
+    "index": 108800,
+    "date": "2022-12-06 11:16:36",
+    "old_error_mean": 0.07317347742879658,
+    "new_error_mean": 0.031029185867895544,
+    "cut": 8883,
+    "window_after": 3255
+  },
+  {
+    "index": 116480,
+    "date": "2022-12-06 13:36:49",
+    "old_error_mean": 0.041830200371824,
+    "new_error_mean": 0.10454908220271349,
+    "cut": 9682,
+    "window_after": 1253
+  },
+  {
+    "index": 116736,
+    "date": "2022-12-06 13:48:39",
+    "old_error_mean": 0.07992388201712655,
+    "new_error_mean": 0.1965065502183406,
+    "cut": 1051,
+    "window_after": 458
+  },
+  {
+    "index": 116992,
+    "date": "2022-12-06 14:06:31",
+    "old_error_mean": 0.2018140589569161,
+    "new_error_mean": 0.03663003663003663,
+    "cut": 441,
+    "window_after": 273
+  },
+  {
+    "index": 118784,
+    "date": "2022-12-06 15:53:23",
+    "old_error_mean": 0.06453278265358803,
+    "new_error_mean": 0.2578125,
+    "cut": 1937,
+    "window_after": 128
+  },
+  {
+    "index": 119296,
+    "date": "2022-12-06 16:27:36",
+    "old_error_mean": 0.2578125,
+    "new_error_mean": 0.064453125,
+    "cut": 128,
+    "window_after": 512
+  },
+  {
+    "index": 134912,
+    "date": "2022-12-07 03:21:08",
+    "old_error_mean": 0.08242026659222555,
+    "new_error_mean": 0.13340744858254586,
+    "cut": 14329,
+    "window_after": 1799
+  },
+  {
+    "index": 135168,
+    "date": "2022-12-07 03:51:17",
+    "old_error_mean": 0.0903954802259887,
+    "new_error_mean": 0.18034188034188034,
+    "cut": 885,
+    "window_after": 1170
+  },
+  {
+    "index": 136448,
+    "date": "2022-12-07 06:44:16",
+    "old_error_mean": 0.18699186991869918,
+    "new_error_mean": 0.06406685236768803,
+    "cut": 2091,
+    "window_after": 359
+  },
+  {
+    "index": 136704,
+    "date": "2022-12-07 07:28:39",
+    "old_error_mean": 0.06497175141242938,
+    "new_error_mean": 0.2260536398467433,
+    "cut": 354,
+    "window_after": 261
+  },
+  {
+    "index": 136960,
+    "date": "2022-12-07 07:58:05",
+    "old_error_mean": 0.3828125,
+    "new_error_mean": 0.14395886889460155,
+    "cut": 128,
+    "window_after": 389
+  },
+  {
+    "index": 137728,
+    "date": "2022-12-07 09:18:03",
+    "old_error_mean": 0.11732851985559567,
+    "new_error_mean": 0.24543946932006633,
+    "cut": 554,
+    "window_after": 603
+  },
+  {
+    "index": 137984,
+    "date": "2022-12-07 09:29:58",
+    "old_error_mean": 0.2612859097127223,
+    "new_error_mean": 0.046875,
+    "cut": 731,
+    "window_after": 128
+  },
+  {
+    "index": 141568,
+    "date": "2022-12-07 11:06:26",
+    "old_error_mean": 0.06172839506172839,
+    "new_error_mean": 0.1870967741935484,
+    "cut": 3402,
+    "window_after": 310
+  },
+  {
+    "index": 143104,
+    "date": "2022-12-07 11:47:12",
+    "old_error_mean": 0.19661016949152543,
+    "new_error_mean": 0.06060606060606061,
+    "cut": 295,
+    "window_after": 1551
+  },
+  {
+    "index": 147968,
+    "date": "2022-12-07 15:25:18",
+    "old_error_mean": 0.054583141409488715,
+    "new_error_mean": 0.11143270622286541,
+    "cut": 4342,
+    "window_after": 2073
+  },
+  {
+    "index": 148224,
+    "date": "2022-12-07 15:38:52",
+    "old_error_mean": 0.296875,
+    "new_error_mean": 0.09359382099045888,
+    "cut": 128,
+    "window_after": 2201
+  },
+  {
+    "index": 148480,
+    "date": "2022-12-07 15:55:54",
+    "old_error_mean": 0.05555555555555555,
+    "new_error_mean": 0.13908313908313907,
+    "cut": 1170,
+    "window_after": 1287
+  },
+  {
+    "index": 149248,
+    "date": "2022-12-07 16:36:45",
+    "old_error_mean": 0.15428900402993667,
+    "new_error_mean": 0.02830188679245283,
+    "cut": 1737,
+    "window_after": 318
+  },
+  {
+    "index": 149760,
+    "date": "2022-12-07 17:06:26",
+    "old_error_mean": 0.029498525073746312,
+    "new_error_mean": 0.1690427698574338,
+    "cut": 339,
+    "window_after": 491
+  },
+  {
+    "index": 150528,
+    "date": "2022-12-07 18:01:58",
+    "old_error_mean": 0.1261595547309833,
+    "new_error_mean": 0.30386740331491713,
+    "cut": 1078,
+    "window_after": 181
+  },
+  {
+    "index": 150784,
+    "date": "2022-12-07 18:20:05",
+    "old_error_mean": 0.28846153846153844,
+    "new_error_mean": 0.08896797153024912,
+    "cut": 156,
+    "window_after": 281
+  },
+  {
+    "index": 155136,
+    "date": "2022-12-08 00:48:04",
+    "old_error_mean": 0.10731948565776459,
+    "new_error_mean": 0.200339558573854,
+    "cut": 4044,
+    "window_after": 589
+  },
+  {
+    "index": 155392,
+    "date": "2022-12-08 01:00:38",
+    "old_error_mean": 0.21,
+    "new_error_mean": 0.06376811594202898,
+    "cut": 500,
+    "window_after": 345
+  },
+  {
+    "index": 160512,
+    "date": "2022-12-08 09:46:19",
+    "old_error_mean": 0.0866750208855472,
+    "new_error_mean": 0.1964549483013294,
+    "cut": 4788,
+    "window_after": 677
+  },
+  {
+    "index": 160768,
+    "date": "2022-12-08 09:54:19",
+    "old_error_mean": 0.20135363790186125,
+    "new_error_mean": 0.06140350877192982,
+    "cut": 591,
+    "window_after": 342
+  },
+  {
+    "index": 169216,
+    "date": "2022-12-08 15:57:46",
+    "old_error_mean": 0.0377496346809547,
+    "new_error_mean": 0.12629757785467127,
+    "cut": 8212,
+    "window_after": 578
+  },
+  {
+    "index": 175616,
+    "date": "2022-12-09 00:29:39",
+    "old_error_mean": 0.09422156790577843,
+    "new_error_mean": 0.15090673575129535,
+    "cut": 5434,
+    "window_after": 1544
+  },
+  {
+    "index": 175872,
+    "date": "2022-12-09 00:32:43",
+    "old_error_mean": 0.0546875,
+    "new_error_mean": 0.23504784688995214,
+    "cut": 128,
+    "window_after": 1672
+  },
+  {
+    "index": 176128,
+    "date": "2022-12-09 00:33:35",
+    "old_error_mean": 0.0703125,
+    "new_error_mean": 0.30666666666666664,
+    "cut": 128,
+    "window_after": 1800
+  },
+  {
+    "index": 176384,
+    "date": "2022-12-09 00:42:55",
+    "old_error_mean": 0.0546875,
+    "new_error_mean": 0.32676348547717843,
+    "cut": 128,
+    "window_after": 1928
+  },
+  {
+    "index": 176640,
+    "date": "2022-12-09 01:04:57",
+    "old_error_mean": 0.0859375,
+    "new_error_mean": 0.3142023346303502,
+    "cut": 128,
+    "window_after": 2056
+  },
+  {
+    "index": 176896,
+    "date": "2022-12-09 01:28:52",
+    "old_error_mean": 0.09375,
+    "new_error_mean": 0.2957875457875458,
+    "cut": 128,
+    "window_after": 2184
+  },
+  {
+    "index": 177152,
+    "date": "2022-12-09 02:01:58",
+    "old_error_mean": 0.0390625,
+    "new_error_mean": 0.2867647058823529,
+    "cut": 128,
+    "window_after": 2312
+  },
+  {
+    "index": 177408,
+    "date": "2022-12-09 02:22:00",
+    "old_error_mean": 0.015625,
+    "new_error_mean": 0.28770491803278686,
+    "cut": 128,
+    "window_after": 2440
+  },
+  {
+    "index": 177664,
+    "date": "2022-12-09 02:57:49",
+    "old_error_mean": 0.0703125,
+    "new_error_mean": 0.27842679127725856,
+    "cut": 128,
+    "window_after": 2568
+  },
+  {
+    "index": 177920,
+    "date": "2022-12-09 03:36:30",
+    "old_error_mean": 0.15326633165829145,
+    "new_error_mean": 0.2798845836768343,
+    "cut": 398,
+    "window_after": 2426
+  },
+  {
+    "index": 178176,
+    "date": "2022-12-09 04:25:14",
+    "old_error_mean": 0.8984375,
+    "new_error_mean": 0.22866092404072044,
+    "cut": 128,
+    "window_after": 2554
+  },
+  {
+    "index": 178432,
+    "date": "2022-12-09 05:18:13",
+    "old_error_mean": 0.453125,
+    "new_error_mean": 0.20544369873228935,
+    "cut": 128,
+    "window_after": 2682
+  },
+  {
+    "index": 178688,
+    "date": "2022-12-09 06:05:19",
+    "old_error_mean": 0.859375,
+    "new_error_mean": 0.1619217081850534,
+    "cut": 128,
+    "window_after": 2810
+  },
+  {
+    "index": 178944,
+    "date": "2022-12-09 07:04:51",
+    "old_error_mean": 0.5234375,
+    "new_error_mean": 0.13750850918992513,
+    "cut": 128,
+    "window_after": 2938
+  },
+  {
+    "index": 179200,
+    "date": "2022-12-09 07:50:27",
+    "old_error_mean": 0.7890625,
+    "new_error_mean": 0.10567514677103718,
+    "cut": 128,
+    "window_after": 3066
+  },
+  {
+    "index": 179456,
+    "date": "2022-12-09 08:31:56",
+    "old_error_mean": 0.484375,
+    "new_error_mean": 0.08829054477144646,
+    "cut": 128,
+    "window_after": 3194
+  },
+  {
+    "index": 181760,
+    "date": "2022-12-09 10:26:52",
+    "old_error_mean": 0.0881326352530541,
+    "new_error_mean": 0.03349514563106796,
+    "cut": 3438,
+    "window_after": 2060
+  },
+  {
+    "index": 188672,
+    "date": "2022-12-09 14:49:34",
+    "old_error_mean": 0.03602517744743538,
+    "new_error_mean": 0.09568106312292358,
+    "cut": 7467,
+    "window_after": 1505
+  },
+  {
+    "index": 189184,
+    "date": "2022-12-09 15:04:04",
+    "old_error_mean": 0.061330561330561334,
+    "new_error_mean": 0.15165876777251186,
+    "cut": 962,
+    "window_after": 1055
+  },
+  {
+    "index": 189440,
+    "date": "2022-12-09 15:09:21",
+    "old_error_mean": 0.13370165745856355,
+    "new_error_mean": 0.2561576354679803,
+    "cut": 905,
+    "window_after": 406
+  },
+  {
+    "index": 189696,
+    "date": "2022-12-09 15:24:37",
+    "old_error_mean": 0.3427230046948357,
+    "new_error_mean": 0.13140311804008908,
+    "cut": 213,
+    "window_after": 449
+  },
+  {
+    "index": 190720,
+    "date": "2022-12-09 16:33:03",
+    "old_error_mean": 0.0862453531598513,
+    "new_error_mean": 0.328125,
+    "cut": 1345,
+    "window_after": 128
+  },
+  {
+    "index": 190976,
+    "date": "2022-12-09 16:43:12",
+    "old_error_mean": 0.3142857142857143,
+    "new_error_mean": 0.10526315789473684,
+    "cut": 175,
+    "window_after": 209
+  },
+  {
+    "index": 196352,
+    "date": "2022-12-10 00:23:13",
+    "old_error_mean": 0.07366984993178717,
+    "new_error_mean": 0.1266490765171504,
+    "cut": 2932,
+    "window_after": 2653
+  },
+  {
+    "index": 196608,
+    "date": "2022-12-10 00:33:08",
+    "old_error_mean": 0.07326007326007326,
+    "new_error_mean": 0.16716038933559035,
+    "cut": 546,
+    "window_after": 2363
+  },
+  {
+    "index": 196864,
+    "date": "2022-12-10 01:08:00",
+    "old_error_mean": 0.07984031936127745,
+    "new_error_mean": 0.17847025495750707,
+    "cut": 501,
+    "window_after": 2118
+  },
+  {
+    "index": 197120,
+    "date": "2022-12-10 01:43:36",
+    "old_error_mean": 0.03347280334728033,
+    "new_error_mean": 0.18266978922716628,
+    "cut": 239,
+    "window_after": 2135
+  },
+  {
+    "index": 197376,
+    "date": "2022-12-10 02:17:07",
+    "old_error_mean": 0.08492201039861352,
+    "new_error_mean": 0.19128996692392503,
+    "cut": 577,
+    "window_after": 1814
+  },
+  {
+    "index": 197632,
+    "date": "2022-12-10 02:53:53",
+    "old_error_mean": 0.04716981132075472,
+    "new_error_mean": 0.2009132420091324,
+    "cut": 318,
+    "window_after": 1752
+  },
+  {
+    "index": 197888,
+    "date": "2022-12-10 03:38:52",
+    "old_error_mean": 0.06363636363636363,
+    "new_error_mean": 0.2041387024608501,
+    "cut": 220,
+    "window_after": 1788
+  },
+  {
+    "index": 198144,
+    "date": "2022-12-10 05:01:18",
+    "old_error_mean": 0.6484375,
+    "new_error_mean": 0.15866388308977036,
+    "cut": 128,
+    "window_after": 1916
+  },
+  {
+    "index": 198400,
+    "date": "2022-12-10 06:02:36",
+    "old_error_mean": 0.7109375,
+    "new_error_mean": 0.11986301369863013,
+    "cut": 128,
+    "window_after": 2044
+  },
+  {
+    "index": 198656,
+    "date": "2022-12-10 06:26:07",
+    "old_error_mean": 0.6171875,
+    "new_error_mean": 0.10957642725598526,
+    "cut": 128,
+    "window_after": 2172
+  },
+  {
+    "index": 198912,
+    "date": "2022-12-10 07:30:11",
+    "old_error_mean": 0.08143322475570032,
+    "new_error_mean": 0.18430034129692832,
+    "cut": 1842,
+    "window_after": 586
+  },
+  {
+    "index": 199168,
+    "date": "2022-12-10 08:05:48",
+    "old_error_mean": 0.359375,
+    "new_error_mean": 0.14565826330532214,
+    "cut": 128,
+    "window_after": 714
+  },
+  {
+    "index": 199424,
+    "date": "2022-12-10 08:26:57",
+    "old_error_mean": 0.3125,
+    "new_error_mean": 0.08788598574821853,
+    "cut": 128,
+    "window_after": 842
+  },
+  {
+    "index": 208128,
+    "date": "2022-12-10 18:34:44",
+    "old_error_mean": 0.04115875519862326,
+    "new_error_mean": 0.09055577147298872,
+    "cut": 6973,
+    "window_after": 2573
+  },
+  {
+    "index": 213504,
+    "date": "2022-12-11 09:55:47",
+    "old_error_mean": 0.09461095973357554,
+    "new_error_mean": 0.029784065524944156,
+    "cut": 6606,
+    "window_after": 1343
+  },
+  {
+    "index": 218368,
+    "date": "2022-12-11 12:56:38",
+    "old_error_mean": 0.035203158414212864,
+    "new_error_mean": 0.2578125,
+    "cut": 6079,
+    "window_after": 128
+  },
+  {
+    "index": 218624,
+    "date": "2022-12-11 13:37:27",
+    "old_error_mean": 0.36904761904761907,
+    "new_error_mean": 0.16666666666666666,
+    "cut": 168,
+    "window_after": 216
+  },
+  {
+    "index": 219136,
+    "date": "2022-12-11 15:07:46",
+    "old_error_mean": 0.20698254364089774,
+    "new_error_mean": 0.0581039755351682,
+    "cut": 401,
+    "window_after": 327
+  },
+  {
+    "index": 223744,
+    "date": "2022-12-12 02:25:19",
+    "old_error_mean": 0.08947612424663885,
+    "new_error_mean": 0.1964573268921095,
+    "cut": 4314,
+    "window_after": 621
+  },
+  {
+    "index": 224000,
+    "date": "2022-12-12 03:12:34",
+    "old_error_mean": 0.22115384615384615,
+    "new_error_mean": 0.0784313725490196,
+    "cut": 520,
+    "window_after": 357
+  },
+  {
+    "index": 230656,
+    "date": "2022-12-12 11:27:08",
+    "old_error_mean": 0.0891355533131517,
+    "new_error_mean": 0.041584158415841586,
+    "cut": 2973,
+    "window_after": 4040
+  },
+  {
+    "index": 239872,
+    "date": "2022-12-12 19:23:58",
+    "old_error_mean": 0.03969776924922044,
+    "new_error_mean": 0.07482716551443676,
+    "cut": 8338,
+    "window_after": 4918
+  },
+  {
+    "index": 243456,
+    "date": "2022-12-13 00:41:20",
+    "old_error_mean": 0.06926952141057935,
+    "new_error_mean": 0.15480427046263345,
+    "cut": 7940,
+    "window_after": 562
+  },
+  {
+    "index": 247552,
+    "date": "2022-12-13 09:10:28",
+    "old_error_mean": 0.0921358771521638,
+    "new_error_mean": 0.2,
+    "cut": 4298,
+    "window_after": 360
+  },
+  {
+    "index": 247808,
+    "date": "2022-12-13 09:11:22",
+    "old_error_mean": 0.0945945945945946,
+    "new_error_mean": 0.27918781725888325,
+    "cut": 222,
+    "window_after": 394
+  },
+  {
+    "index": 248064,
+    "date": "2022-12-13 09:12:44",
+    "old_error_mean": 0.3283582089552239,
+    "new_error_mean": 0.48253968253968255,
+    "cut": 335,
+    "window_after": 315
+  },
+  {
+    "index": 248320,
+    "date": "2022-12-13 09:15:30",
+    "old_error_mean": 0.25,
+    "new_error_mean": 0.49435665914221216,
+    "cut": 128,
+    "window_after": 443
+  },
+  {
+    "index": 248576,
+    "date": "2022-12-13 09:23:24",
+    "old_error_mean": 0.5546875,
+    "new_error_mean": 0.287215411558669,
+    "cut": 128,
+    "window_after": 571
+  },
+  {
+    "index": 248832,
+    "date": "2022-12-13 09:30:01",
+    "old_error_mean": 0.75,
+    "new_error_mean": 0.15736766809728184,
+    "cut": 128,
+    "window_after": 699
+  },
+  {
+    "index": 249088,
+    "date": "2022-12-13 09:36:49",
+    "old_error_mean": 0.390625,
+    "new_error_mean": 0.08706166868198308,
+    "cut": 128,
+    "window_after": 827
+  },
+  {
+    "index": 262400,
+    "date": "2022-12-13 19:52:06",
+    "old_error_mean": 0.04129294296835336,
+    "new_error_mean": 0.08789314950452391,
+    "cut": 11818,
+    "window_after": 2321
+  },
+  {
+    "index": 267008,
+    "date": "2022-12-14 03:19:06",
+    "old_error_mean": 0.07494260413250246,
+    "new_error_mean": 0.15764139590854392,
+    "cut": 6098,
+    "window_after": 831
+  },
+  {
+    "index": 270080,
+    "date": "2022-12-14 09:41:58",
+    "old_error_mean": 0.1545538178472861,
+    "new_error_mean": 0.08203125,
+    "cut": 1087,
+    "window_after": 2816
+  },
+  {
+    "index": 271872,
+    "date": "2022-12-14 10:36:02",
+    "old_error_mean": 0.09795918367346938,
+    "new_error_mean": 0.03700906344410876,
+    "cut": 1960,
+    "window_after": 2648
+  },
+  {
+    "index": 281344,
+    "date": "2022-12-14 18:43:52",
+    "old_error_mean": 0.035844788585348876,
+    "new_error_mean": 0.0746900988545426,
+    "cut": 5747,
+    "window_after": 6373
+  },
+  {
+    "index": 284160,
+    "date": "2022-12-14 22:57:40",
+    "old_error_mean": 0.07692307692307693,
+    "new_error_mean": 0.328125,
+    "cut": 9061,
+    "window_after": 128
+  },
+  {
+    "index": 284416,
+    "date": "2022-12-14 23:16:03",
+    "old_error_mean": 0.38961038961038963,
+    "new_error_mean": 0.1826086956521739,
+    "cut": 154,
+    "window_after": 230
+  },
+  {
+    "index": 284928,
+    "date": "2022-12-15 00:10:53",
+    "old_error_mean": 0.265625,
+    "new_error_mean": 0.06677524429967427,
+    "cut": 128,
+    "window_after": 614
+  },
+  {
+    "index": 292352,
+    "date": "2022-12-15 11:19:27",
+    "old_error_mean": 0.08239508700102355,
+    "new_error_mean": 0.03308823529411765,
+    "cut": 5862,
+    "window_after": 2176
+  },
+  {
+    "index": 300288,
+    "date": "2022-12-15 17:19:33",
+    "old_error_mean": 0.03361956047154708,
+    "new_error_mean": 0.07651959271829682,
+    "cut": 6871,
+    "window_after": 3241
+  },
+  {
+    "index": 312320,
+    "date": "2022-12-16 11:19:59",
+    "old_error_mean": 0.07476708682376888,
+    "new_error_mean": 0.03,
+    "cut": 12773,
+    "window_after": 2500
+  },
+  {
+    "index": 313344,
+    "date": "2022-12-16 11:49:55",
+    "old_error_mean": 0.02918781725888325,
+    "new_error_mean": 0.09913793103448276,
+    "cut": 2364,
+    "window_after": 1160
+  },
+  {
+    "index": 313600,
+    "date": "2022-12-16 11:55:37",
+    "old_error_mean": 0.03840472673559823,
+    "new_error_mean": 0.15155615696887687,
+    "cut": 677,
+    "window_after": 739
+  },
+  {
+    "index": 314112,
+    "date": "2022-12-16 12:10:36",
+    "old_error_mean": 0.1953727506426735,
+    "new_error_mean": 0.07308584686774942,
+    "cut": 389,
+    "window_after": 862
+  },
+  {
+    "index": 318208,
+    "date": "2022-12-16 15:22:41",
+    "old_error_mean": 0.04621380846325167,
+    "new_error_mean": 0.10907759882869693,
+    "cut": 3592,
+    "window_after": 1366
+  },
+  {
+    "index": 322048,
+    "date": "2022-12-16 20:05:12",
+    "old_error_mean": 0.07311258278145695,
+    "new_error_mean": 0.1376659678546471,
+    "cut": 3775,
+    "window_after": 1431
+  },
+  {
+    "index": 322560,
+    "date": "2022-12-16 20:46:40",
+    "old_error_mean": 0.13416536661466458,
+    "new_error_mean": 0.2344931921331316,
+    "cut": 1282,
+    "window_after": 661
+  },
+  {
+    "index": 322816,
+    "date": "2022-12-16 21:20:33",
+    "old_error_mean": 0.12398921832884097,
+    "new_error_mean": 0.2564102564102564,
+    "cut": 371,
+    "window_after": 546
+  },
+  {
+    "index": 323072,
+    "date": "2022-12-16 21:43:38",
+    "old_error_mean": 0.3878504672897196,
+    "new_error_mean": 0.21258503401360543,
+    "cut": 214,
+    "window_after": 588
+  },
+  {
+    "index": 323328,
+    "date": "2022-12-16 22:16:38",
+    "old_error_mean": 0.21452702702702703,
+    "new_error_mean": 0.05952380952380952,
+    "cut": 592,
+    "window_after": 252
+  },
+  {
+    "index": 323584,
+    "date": "2022-12-16 22:49:15",
+    "old_error_mean": 0.05737704918032787,
+    "new_error_mean": 0.2676056338028169,
+    "cut": 366,
+    "window_after": 142
+  },
+  {
+    "index": 323840,
+    "date": "2022-12-16 23:30:55",
+    "old_error_mean": 0.2814814814814815,
+    "new_error_mean": 0.06844106463878327,
+    "cut": 135,
+    "window_after": 263
+  },
+  {
+    "index": 330240,
+    "date": "2022-12-17 11:20:40",
+    "old_error_mean": 0.09043523586135001,
+    "new_error_mean": 0.04069355980184006,
+    "cut": 3837,
+    "window_after": 2826
+  },
+  {
+    "index": 334592,
+    "date": "2022-12-17 16:35:25",
+    "old_error_mean": 0.03782894736842105,
+    "new_error_mean": 0.09031979256698358,
+    "cut": 4864,
+    "window_after": 2314
+  },
+  {
+    "index": 334848,
+    "date": "2022-12-17 16:37:10",
+    "old_error_mean": 0.029649595687331536,
+    "new_error_mean": 0.15734424738517508,
+    "cut": 371,
+    "window_after": 2199
+  },
+  {
+    "index": 335104,
+    "date": "2022-12-17 16:57:55",
+    "old_error_mean": 0.05013927576601671,
+    "new_error_mean": 0.1674618320610687,
+    "cut": 359,
+    "window_after": 2096
+  },
+  {
+    "index": 335360,
+    "date": "2022-12-17 17:12:18",
+    "old_error_mean": 0.05042016806722689,
+    "new_error_mean": 0.20719016083254493,
+    "cut": 238,
+    "window_after": 2114
+  },
+  {
+    "index": 335616,
+    "date": "2022-12-17 17:32:22",
+    "old_error_mean": 0.058577405857740586,
+    "new_error_mean": 0.20835288596902862,
+    "cut": 239,
+    "window_after": 2131
+  },
+  {
+    "index": 335872,
+    "date": "2022-12-17 18:06:13",
+    "old_error_mean": 0.07670454545454546,
+    "new_error_mean": 0.2113022113022113,
+    "cut": 352,
+    "window_after": 2035
+  },
+  {
+    "index": 336128,
+    "date": "2022-12-17 18:36:14",
+    "old_error_mean": 0.1023391812865497,
+    "new_error_mean": 0.21959979476654695,
+    "cut": 342,
+    "window_after": 1949
+  },
+  {
+    "index": 336384,
+    "date": "2022-12-17 19:15:36",
+    "old_error_mean": 0.05652173913043478,
+    "new_error_mean": 0.22481012658227847,
+    "cut": 230,
+    "window_after": 1975
+  },
+  {
+    "index": 336640,
+    "date": "2022-12-17 20:07:00",
+    "old_error_mean": 0.4765625,
+    "new_error_mean": 0.19163100332857821,
+    "cut": 128,
+    "window_after": 2103
+  },
+  {
+    "index": 336896,
+    "date": "2022-12-17 21:02:44",
+    "old_error_mean": 0.4765625,
+    "new_error_mean": 0.16315553563424473,
+    "cut": 128,
+    "window_after": 2231
+  },
+  {
+    "index": 337152,
+    "date": "2022-12-17 22:09:59",
+    "old_error_mean": 0.5546875,
+    "new_error_mean": 0.13522679101314117,
+    "cut": 128,
+    "window_after": 2359
+  },
+  {
+    "index": 337408,
+    "date": "2022-12-17 23:22:16",
+    "old_error_mean": 0.3359375,
+    "new_error_mean": 0.11821471652593486,
+    "cut": 128,
+    "window_after": 2487
+  },
+  {
+    "index": 337664,
+    "date": "2022-12-18 00:04:18",
+    "old_error_mean": 0.20565552699228792,
+    "new_error_mean": 0.09600679694137638,
+    "cut": 389,
+    "window_after": 2354
+  },
+  {
+    "index": 337920,
+    "date": "2022-12-18 00:26:34",
+    "old_error_mean": 0.328125,
+    "new_error_mean": 0.08138597904915391,
+    "cut": 128,
+    "window_after": 2482
+  },
+  {
+    "index": 343296,
+    "date": "2022-12-18 11:25:11",
+    "old_error_mean": 0.07918934133983861,
+    "new_error_mean": 0.03044681692368525,
+    "cut": 5329,
+    "window_after": 2529
+  },
+  {
+    "index": 348160,
+    "date": "2022-12-18 18:30:36",
+    "old_error_mean": 0.030077979948013367,
+    "new_error_mean": 0.0817140009965122,
+    "cut": 5386,
+    "window_after": 2007
+  },
+  {
+    "index": 354560,
+    "date": "2022-12-19 10:07:17",
+    "old_error_mean": 0.07679414901721773,
+    "new_error_mean": 0.022234273318872018,
+    "cut": 6563,
+    "window_after": 1844
+  },
+  {
+    "index": 362240,
+    "date": "2022-12-19 16:08:10",
+    "old_error_mean": 0.030143762559901068,
+    "new_error_mean": 0.07495908346972177,
+    "cut": 6469,
+    "window_after": 3055
+  },
+  {
+    "index": 362496,
+    "date": "2022-12-19 16:29:22",
+    "old_error_mean": 0.049600672551492225,
+    "new_error_mean": 0.12875536480686695,
+    "cut": 2379,
+    "window_after": 932
+  },
+  {
+    "index": 362752,
+    "date": "2022-12-19 16:48:49",
+    "old_error_mean": 0.18846153846153846,
+    "new_error_mean": 0.04790419161676647,
+    "cut": 520,
+    "window_after": 668
+  },
+  {
+    "index": 374272,
+    "date": "2022-12-20 10:31:49",
+    "old_error_mean": 0.0640971931294512,
+    "new_error_mean": 0.020075757575757577,
+    "cut": 9548,
+    "window_after": 2640
+  },
+  {
+    "index": 415744,
+    "date": "2022-12-22 14:43:31",
+    "old_error_mean": 0.045038244766505635,
+    "new_error_mean": 0.3671875,
+    "cut": 19872,
+    "window_after": 128
+  },
+  {
+    "index": 416000,
+    "date": "2022-12-22 14:58:10",
+    "old_error_mean": 0.39552238805970147,
+    "new_error_mean": 0.184,
+    "cut": 134,
+    "window_after": 250
+  },
+  {
+    "index": 416256,
+    "date": "2022-12-22 15:15:22",
+    "old_error_mean": 0.2842809364548495,
+    "new_error_mean": 0.04830917874396135,
+    "cut": 299,
+    "window_after": 207
+  },
+  {
+    "index": 430336,
+    "date": "2022-12-23 11:43:47",
+    "old_error_mean": 0.08108108108108109,
+    "new_error_mean": 0.04804506295559974,
+    "cut": 8251,
+    "window_after": 6036
+  },
+  {
+    "index": 434432,
+    "date": "2022-12-23 15:20:11",
+    "old_error_mean": 0.04998000799680128,
+    "new_error_mean": 0.28125,
+    "cut": 10004,
+    "window_after": 128
+  },
+  {
+    "index": 434944,
+    "date": "2022-12-23 16:13:51",
+    "old_error_mean": 0.28125,
+    "new_error_mean": 0.05859375,
+    "cut": 128,
+    "window_after": 512
+  },
+  {
+    "index": 436480,
+    "date": "2022-12-23 18:25:02",
+    "old_error_mean": 0.07251381215469613,
+    "new_error_mean": 0.17,
+    "cut": 1448,
+    "window_after": 600
+  },
+  {
+    "index": 436992,
+    "date": "2022-12-23 19:21:22",
+    "old_error_mean": 0.15991471215351813,
+    "new_error_mean": 0.3563218390804598,
+    "cut": 938,
+    "window_after": 174
+  },
+  {
+    "index": 437248,
+    "date": "2022-12-23 19:59:52",
+    "old_error_mean": 0.36496350364963503,
+    "new_error_mean": 0.13310580204778158,
+    "cut": 137,
+    "window_after": 293
+  },
+  {
+    "index": 439552,
+    "date": "2022-12-24 03:31:04",
+    "old_error_mean": 0.08640864086408641,
+    "new_error_mean": 0.216,
+    "cut": 2222,
+    "window_after": 375
+  },
+  {
+    "index": 439808,
+    "date": "2022-12-24 04:19:05",
+    "old_error_mean": 0.2743362831858407,
+    "new_error_mean": 0.10864197530864197,
+    "cut": 226,
+    "window_after": 405
+  },
+  {
+    "index": 441856,
+    "date": "2022-12-24 09:54:43",
+    "old_error_mean": 0.11651179413867048,
+    "new_error_mean": 0.031309297912713474,
+    "cut": 1399,
+    "window_after": 1054
+  },
+  {
+    "index": 448512,
+    "date": "2022-12-24 13:49:12",
+    "old_error_mean": 0.023608546557636508,
+    "new_error_mean": 0.28125,
+    "cut": 7582,
+    "window_after": 128
+  },
+  {
+    "index": 454656,
+    "date": "2022-12-25 09:30:35",
+    "old_error_mean": 0.1281963274412219,
+    "new_error_mean": 0.024719101123595506,
+    "cut": 5827,
+    "window_after": 445
+  },
+  {
+    "index": 460800,
+    "date": "2022-12-25 14:34:53",
+    "old_error_mean": 0.03639627876611719,
+    "new_error_mean": 0.1406926406926407,
+    "cut": 6127,
+    "window_after": 462
+  },
+  {
+    "index": 461312,
+    "date": "2022-12-25 15:48:29",
+    "old_error_mean": 0.11515151515151516,
+    "new_error_mean": 0.2830655129789864,
+    "cut": 165,
+    "window_after": 809
+  },
+  {
+    "index": 461568,
+    "date": "2022-12-25 16:20:27",
+    "old_error_mean": 0.1596244131455399,
+    "new_error_mean": 0.318075117370892,
+    "cut": 213,
+    "window_after": 852
+  },
+  {
+    "index": 461824,
+    "date": "2022-12-25 16:44:42",
+    "old_error_mean": 0.1336405529953917,
+    "new_error_mean": 0.30303030303030304,
+    "cut": 217,
+    "window_after": 891
+  },
+  {
+    "index": 462080,
+    "date": "2022-12-25 17:13:16",
+    "old_error_mean": 0.09375,
+    "new_error_mean": 0.2777232580961727,
+    "cut": 128,
+    "window_after": 1019
+  },
+  {
+    "index": 462336,
+    "date": "2022-12-25 17:47:29",
+    "old_error_mean": 0.4972375690607735,
+    "new_error_mean": 0.20383912248628885,
+    "cut": 181,
+    "window_after": 1094
+  },
+  {
+    "index": 462592,
+    "date": "2022-12-25 18:22:24",
+    "old_error_mean": 0.8671875,
+    "new_error_mean": 0.11129296235679215,
+    "cut": 128,
+    "window_after": 1222
+  },
+  {
+    "index": 465152,
+    "date": "2022-12-26 03:27:19",
+    "old_error_mean": 0.11014994232987313,
+    "new_error_mean": 0.22929936305732485,
+    "cut": 3468,
+    "window_after": 314
+  },
+  {
+    "index": 465920,
+    "date": "2022-12-26 05:52:25",
+    "old_error_mean": 0.23920265780730898,
+    "new_error_mean": 0.08450704225352113,
+    "cut": 301,
+    "window_after": 781
+  },
+  {
+    "index": 468992,
+    "date": "2022-12-26 10:21:02",
+    "old_error_mean": 0.09120699071545603,
+    "new_error_mean": 0.026706231454005934,
+    "cut": 1831,
+    "window_after": 2022
+  },
+  {
+    "index": 474624,
+    "date": "2022-12-26 15:36:43",
+    "old_error_mean": 0.030427850119585438,
+    "new_error_mean": 0.21875,
+    "cut": 7526,
+    "window_after": 128
+  },
+  {
+    "index": 475136,
+    "date": "2022-12-26 16:43:28",
+    "old_error_mean": 0.12101910828025478,
+    "new_error_mean": 0.30177514792899407,
+    "cut": 471,
+    "window_after": 169
+  },
+  {
+    "index": 475392,
+    "date": "2022-12-26 17:29:13",
+    "old_error_mean": 0.3006134969325153,
+    "new_error_mean": 0.08015267175572519,
+    "cut": 163,
+    "window_after": 262
+  },
+  {
+    "index": 483584,
+    "date": "2022-12-27 10:58:04",
+    "old_error_mean": 0.07376783398184177,
+    "new_error_mean": 0.025809273840769902,
+    "cut": 6168,
+    "window_after": 2286
+  },
+  {
+    "index": 489216,
+    "date": "2022-12-27 16:35:51",
+    "old_error_mean": 0.03117962930885155,
+    "new_error_mean": 0.08671328671328671,
+    "cut": 5773,
+    "window_after": 2145
+  },
+  {
+    "index": 489472,
+    "date": "2022-12-27 16:54:57",
+    "old_error_mean": 0.05735492577597841,
+    "new_error_mean": 0.14036996735582155,
+    "cut": 1482,
+    "window_after": 919
+  },
+  {
+    "index": 489984,
+    "date": "2022-12-27 17:45:57",
+    "old_error_mean": 0.1843687374749499,
+    "new_error_mean": 0.0740343347639485,
+    "cut": 499,
+    "window_after": 932
+  },
+  {
+    "index": 491776,
+    "date": "2022-12-27 20:16:18",
+    "old_error_mean": 0.06482320942883046,
+    "new_error_mean": 0.17374517374517376,
+    "cut": 2206,
+    "window_after": 518
+  },
+  {
+    "index": 493824,
+    "date": "2022-12-28 00:34:33",
+    "old_error_mean": 0.18292682926829268,
+    "new_error_mean": 0.08341369334619093,
+    "cut": 492,
+    "window_after": 2074
+  },
+  {
+    "index": 495104,
+    "date": "2022-12-28 03:27:25",
+    "old_error_mean": 0.08114035087719298,
+    "new_error_mean": 0.16828478964401294,
+    "cut": 2736,
+    "window_after": 618
+  },
+  {
+    "index": 495360,
+    "date": "2022-12-28 04:13:16",
+    "old_error_mean": 0.03111111111111111,
+    "new_error_mean": 0.1864406779661017,
+    "cut": 225,
+    "window_after": 649
+  },
+  {
+    "index": 495616,
+    "date": "2022-12-28 04:39:36",
+    "old_error_mean": 0.3163265306122449,
+    "new_error_mean": 0.10155148095909731,
+    "cut": 196,
+    "window_after": 709
+  },
+  {
+    "index": 498944,
+    "date": "2022-12-28 09:57:35",
+    "old_error_mean": 0.10313075506445672,
+    "new_error_mean": 0.0340393343419062,
+    "cut": 2715,
+    "window_after": 1322
+  },
+  {
+    "index": 506368,
+    "date": "2022-12-28 15:35:58",
+    "old_error_mean": 0.030965391621129327,
+    "new_error_mean": 0.0770884520884521,
+    "cut": 5490,
+    "window_after": 3256
+  },
+  {
+    "index": 506624,
+    "date": "2022-12-28 15:51:29",
+    "old_error_mean": 0.03404539385847797,
+    "new_error_mean": 0.10476663356504469,
+    "cut": 1498,
+    "window_after": 2014
+  },
+  {
+    "index": 507136,
+    "date": "2022-12-28 16:22:19",
+    "old_error_mean": 0.05568720379146919,
+    "new_error_mean": 0.13793103448275862,
+    "cut": 844,
+    "window_after": 1682
+  },
+  {
+    "index": 508160,
+    "date": "2022-12-28 17:37:01",
+    "old_error_mean": 0.1461836998706339,
+    "new_error_mean": 0.06896551724137931,
+    "cut": 1546,
+    "window_after": 1160
+  },
+  {
+    "index": 516864,
+    "date": "2022-12-29 10:48:08",
+    "old_error_mean": 0.07728597197169419,
+    "new_error_mean": 0.0312382386149793,
+    "cut": 7207,
+    "window_after": 2657
+  },
+  {
+    "index": 524288,
+    "date": "2022-12-29 20:09:07",
+    "old_error_mean": 0.03347544607610927,
+    "new_error_mean": 0.07390608324439701,
+    "cut": 6333,
+    "window_after": 3748
+  },
+  {
+    "index": 524544,
+    "date": "2022-12-29 20:21:13",
+    "old_error_mean": 0.06693478885377765,
+    "new_error_mean": 0.16252390057361377,
+    "cut": 3481,
+    "window_after": 523
+  },
+  {
+    "index": 526080,
+    "date": "2022-12-29 22:56:47",
+    "old_error_mean": 0.1870196413321947,
+    "new_error_mean": 0.0990990990990991,
+    "cut": 1171,
+    "window_after": 888
+  },
+  {
+    "index": 531200,
+    "date": "2022-12-30 10:13:32",
+    "old_error_mean": 0.09402441636324695,
+    "new_error_mean": 0.030619865571321882,
+    "cut": 4669,
+    "window_after": 1339
+  },
+  {
+    "index": 537088,
+    "date": "2022-12-30 14:29:51",
+    "old_error_mean": 0.03609625668449198,
+    "new_error_mean": 0.14343434343434344,
+    "cut": 6732,
+    "window_after": 495
+  },
+  {
+    "index": 538112,
+    "date": "2022-12-30 16:35:39",
+    "old_error_mean": 0.11646297627606039,
+    "new_error_mean": 0.3125,
+    "cut": 1391,
+    "window_after": 128
+  },
+  {
+    "index": 538368,
+    "date": "2022-12-30 16:57:54",
+    "old_error_mean": 0.3475177304964539,
+    "new_error_mean": 0.13991769547325103,
+    "cut": 141,
+    "window_after": 243
+  },
+  {
+    "index": 540416,
+    "date": "2022-12-30 20:02:05",
+    "old_error_mean": 0.15451745379876797,
+    "new_error_mean": 0.2857142857142857,
+    "cut": 1948,
+    "window_after": 343
+  },
+  {
+    "index": 540672,
+    "date": "2022-12-30 20:40:15",
+    "old_error_mean": 0.3006134969325153,
+    "new_error_mean": 0.13553113553113552,
+    "cut": 326,
+    "window_after": 273
+  },
+  {
+    "index": 544768,
+    "date": "2022-12-31 09:04:19",
+    "old_error_mean": 0.0874074074074074,
+    "new_error_mean": 0.1720321931589537,
+    "cut": 3375,
+    "window_after": 994
+  },
+  {
+    "index": 545024,
+    "date": "2022-12-31 09:36:36",
+    "old_error_mean": 0.09698996655518395,
+    "new_error_mean": 0.2085889570552147,
+    "cut": 598,
+    "window_after": 652
+  },
+  {
+    "index": 545280,
+    "date": "2022-12-31 09:46:25",
+    "old_error_mean": 0.30943396226415093,
+    "new_error_mean": 0.09797822706065319,
+    "cut": 265,
+    "window_after": 643
+  },
+  {
+    "index": 545536,
+    "date": "2022-12-31 09:57:00",
+    "old_error_mean": 0.2421875,
+    "new_error_mean": 0.04928664072632944,
+    "cut": 128,
+    "window_after": 771
+  },
+  {
+    "index": 551936,
+    "date": "2022-12-31 16:43:52",
+    "old_error_mean": 0.03579230381448496,
+    "new_error_mean": 0.10327868852459017,
+    "cut": 5951,
+    "window_after": 1220
+  },
+  {
+    "index": 553472,
+    "date": "2022-12-31 18:55:33",
+    "old_error_mean": 0.09852451213707758,
+    "new_error_mean": 0.19389312977099238,
+    "cut": 2101,
+    "window_after": 655
+  },
+  {
+    "index": 554240,
+    "date": "2022-12-31 21:30:58",
+    "old_error_mean": 0.1697952218430034,
+    "new_error_mean": 0.33067729083665337,
+    "cut": 1172,
+    "window_after": 251
+  },
+  {
+    "index": 554496,
+    "date": "2022-12-31 22:46:30",
+    "old_error_mean": 0.3556701030927835,
+    "new_error_mean": 0.12460063897763578,
+    "cut": 194,
+    "window_after": 313
+  },
+  {
+    "index": 557568,
+    "date": "2023-01-01 09:51:21",
+    "old_error_mean": 0.12367611889306457,
+    "new_error_mean": 0.024017467248908297,
+    "cut": 2927,
+    "window_after": 458
+  },
+  {
+    "index": 566528,
+    "date": "2023-01-01 15:11:54",
+    "old_error_mean": 0.03067752253562082,
+    "new_error_mean": 0.07834645669291339,
+    "cut": 6878,
+    "window_after": 2540
+  },
+  {
+    "index": 581376,
+    "date": "2023-01-02 10:43:24",
+    "old_error_mean": 0.08672353455818023,
+    "new_error_mean": 0.05701115963124697,
+    "cut": 9144,
+    "window_after": 8244
+  },
+  {
+    "index": 583936,
+    "date": "2023-01-02 12:11:05",
+    "old_error_mean": 0.06608918832210459,
+    "new_error_mean": 0.02800875273522976,
+    "cut": 6234,
+    "window_after": 4570
+  },
+  {
+    "index": 586496,
+    "date": "2023-01-02 15:05:56",
+    "old_error_mean": 0.028904665314401622,
+    "new_error_mean": 0.09472817133443164,
+    "cut": 5916,
+    "window_after": 1214
+  },
+  {
+    "index": 591872,
+    "date": "2023-01-03 01:49:04",
+    "old_error_mean": 0.10698878343399482,
+    "new_error_mean": 0.026415094339622643,
+    "cut": 5795,
+    "window_after": 795
+  },
+  {
+    "index": 592640,
+    "date": "2023-01-03 02:39:51",
+    "old_error_mean": 0.017915309446254073,
+    "new_error_mean": 0.1582089552238806,
+    "cut": 1228,
+    "window_after": 335
+  },
+  {
+    "index": 592896,
+    "date": "2023-01-03 02:39:55",
+    "old_error_mean": 0.16510903426791276,
+    "new_error_mean": 0.0,
+    "cut": 321,
+    "window_after": 270
+  },
+  {
+    "index": 597248,
+    "date": "2023-01-03 06:29:51",
+    "old_error_mean": 0.016143497757847534,
+    "new_error_mean": 0.08300704776820673,
+    "cut": 3345,
+    "window_after": 1277
+  },
+  {
+    "index": 600576,
+    "date": "2023-01-03 10:49:35",
+    "old_error_mean": 0.08485099337748345,
+    "new_error_mean": 0.025582457743261764,
+    "cut": 2416,
+    "window_after": 2189
+  },
+  {
+    "index": 609024,
+    "date": "2023-01-03 18:04:37",
+    "old_error_mean": 0.031238736032680525,
+    "new_error_mean": 0.0773552290406223,
+    "cut": 8323,
+    "window_after": 2314
+  },
+  {
+    "index": 619264,
+    "date": "2023-01-04 10:57:16",
+    "old_error_mean": 0.08828775267538644,
+    "new_error_mean": 0.04885745375408052,
+    "cut": 3364,
+    "window_after": 9190
+  },
+  {
+    "index": 625152,
+    "date": "2023-01-04 15:58:12",
+    "old_error_mean": 0.04418095843037617,
+    "new_error_mean": 0.11221122112211221,
+    "cut": 14169,
+    "window_after": 909
+  },
+  {
+    "index": 629504,
+    "date": "2023-01-04 21:07:14",
+    "old_error_mean": 0.07933884297520662,
+    "new_error_mean": 0.1368515205724508,
+    "cut": 3025,
+    "window_after": 2236
+  },
+  {
+    "index": 629760,
+    "date": "2023-01-04 21:35:00",
+    "old_error_mean": 0.10194805194805195,
+    "new_error_mean": 0.19117647058823528,
+    "cut": 1540,
+    "window_after": 952
+  },
+  {
+    "index": 630016,
+    "date": "2023-01-04 22:09:53",
+    "old_error_mean": 0.05755395683453238,
+    "new_error_mean": 0.1924731182795699,
+    "cut": 278,
+    "window_after": 930
+  },
+  {
+    "index": 630272,
+    "date": "2023-01-04 22:43:26",
+    "old_error_mean": 0.29777777777777775,
+    "new_error_mean": 0.12695109261186263,
+    "cut": 225,
+    "window_after": 961
+  },
+  {
+    "index": 630528,
+    "date": "2023-01-04 23:29:15",
+    "old_error_mean": 0.359375,
+    "new_error_mean": 0.0844811753902663,
+    "cut": 128,
+    "window_after": 1089
+  },
+  {
+    "index": 630784,
+    "date": "2023-01-05 00:02:42",
+    "old_error_mean": 0.3515625,
+    "new_error_mean": 0.06737880032867707,
+    "cut": 128,
+    "window_after": 1217
+  },
+  {
+    "index": 634368,
+    "date": "2023-01-05 07:06:13",
+    "old_error_mean": 0.06812542296413264,
+    "new_error_mean": 0.1766304347826087,
+    "cut": 4433,
+    "window_after": 368
+  },
+  {
+    "index": 635136,
+    "date": "2023-01-05 09:27:31",
+    "old_error_mean": 0.23563218390804597,
+    "new_error_mean": 0.06548856548856549,
+    "cut": 174,
+    "window_after": 962
+  },
+  {
+    "index": 645632,
+    "date": "2023-01-05 18:23:34",
+    "old_error_mean": 0.033886969122728795,
+    "new_error_mean": 0.08403699236027343,
+    "cut": 8971,
+    "window_after": 2487
+  },
+  {
+    "index": 653824,
+    "date": "2023-01-06 10:26:18",
+    "old_error_mean": 0.07683101962661561,
+    "new_error_mean": 0.030994403788204908,
+    "cut": 8356,
+    "window_after": 2323
+  },
+  {
+    "index": 659200,
+    "date": "2023-01-06 14:50:41",
+    "old_error_mean": 0.036982466480035364,
+    "new_error_mean": 0.11403508771929824,
+    "cut": 6787,
+    "window_after": 912
+  },
+  {
+    "index": 660992,
+    "date": "2023-01-06 17:15:23",
+    "old_error_mean": 0.09620362381363244,
+    "new_error_mean": 0.21243523316062177,
+    "cut": 2318,
+    "window_after": 386
+  },
+  {
+    "index": 661504,
+    "date": "2023-01-06 17:55:18",
+    "old_error_mean": 0.24305555555555555,
+    "new_error_mean": 0.08798283261802575,
+    "cut": 432,
+    "window_after": 466
+  },
+  {
+    "index": 664832,
+    "date": "2023-01-07 00:25:37",
+    "old_error_mean": 0.0898876404494382,
+    "new_error_mean": 0.18962075848303392,
+    "cut": 3293,
+    "window_after": 501
+  },
+  {
+    "index": 665088,
+    "date": "2023-01-07 01:03:46",
+    "old_error_mean": 0.10410958904109589,
+    "new_error_mean": 0.25255102040816324,
+    "cut": 365,
+    "window_after": 392
+  },
+  {
+    "index": 665344,
+    "date": "2023-01-07 01:41:15",
+    "old_error_mean": 0.4140625,
+    "new_error_mean": 0.125,
+    "cut": 128,
+    "window_after": 520
+  },
+  {
+    "index": 665600,
+    "date": "2023-01-07 02:32:00",
+    "old_error_mean": 0.2890625,
+    "new_error_mean": 0.06944444444444445,
+    "cut": 128,
+    "window_after": 648
+  },
+  {
+    "index": 665856,
+    "date": "2023-01-07 02:55:16",
+    "old_error_mean": 0.07142857142857142,
+    "new_error_mean": 0.23163841807909605,
+    "cut": 196,
+    "window_after": 708
+  },
+  {
+    "index": 666112,
+    "date": "2023-01-07 04:00:52",
+    "old_error_mean": 0.07112970711297072,
+    "new_error_mean": 0.2289655172413793,
+    "cut": 239,
+    "window_after": 725
+  },
+  {
+    "index": 666368,
+    "date": "2023-01-07 04:36:12",
+    "old_error_mean": 0.06626506024096386,
+    "new_error_mean": 0.23558282208588957,
+    "cut": 166,
+    "window_after": 815
+  },
+  {
+    "index": 666624,
+    "date": "2023-01-07 05:09:08",
+    "old_error_mean": 0.38497652582159625,
+    "new_error_mean": 0.15268065268065267,
+    "cut": 213,
+    "window_after": 858
+  },
+  {
+    "index": 666880,
+    "date": "2023-01-07 05:39:41",
+    "old_error_mean": 0.4296875,
+    "new_error_mean": 0.09432048681541583,
+    "cut": 128,
+    "window_after": 986
+  },
+  {
+    "index": 668928,
+    "date": "2023-01-07 10:18:56",
+    "old_error_mean": 0.10880503144654088,
+    "new_error_mean": 0.036703601108033244,
+    "cut": 1590,
+    "window_after": 1444
+  },
+  {
+    "index": 674560,
+    "date": "2023-01-07 16:31:33",
+    "old_error_mean": 0.028721133320395886,
+    "new_error_mean": 0.08320332813312532,
+    "cut": 5153,
+    "window_after": 1923
+  },
+  {
+    "index": 674816,
+    "date": "2023-01-07 16:56:49",
+    "old_error_mean": 0.05474705474705475,
+    "new_error_mean": 0.1480978260869565,
+    "cut": 1443,
+    "window_after": 736
+  },
+  {
+    "index": 677888,
+    "date": "2023-01-08 02:36:44",
+    "old_error_mean": 0.12651933701657458,
+    "new_error_mean": 0.06106106106106106,
+    "cut": 1810,
+    "window_after": 1998
+  },
+  {
+    "index": 686592,
+    "date": "2023-01-08 16:55:16",
+    "old_error_mean": 0.042854127084652735,
+    "new_error_mean": 0.10423452768729642,
+    "cut": 9474,
+    "window_after": 1228
+  },
+  {
+    "index": 688384,
+    "date": "2023-01-08 22:09:12",
+    "old_error_mean": 0.10606060606060606,
+    "new_error_mean": 0.20140845070422536,
+    "cut": 2310,
+    "window_after": 710
+  },
+  {
+    "index": 688640,
+    "date": "2023-01-08 23:03:39",
+    "old_error_mean": 0.06050955414012739,
+    "new_error_mean": 0.20398773006134968,
+    "cut": 314,
+    "window_after": 652
+  },
+  {
+    "index": 688896,
+    "date": "2023-01-09 00:01:08",
+    "old_error_mean": 0.35471698113207545,
+    "new_error_mean": 0.10730948678071539,
+    "cut": 265,
+    "window_after": 643
+  },
+  {
+    "index": 693248,
+    "date": "2023-01-09 09:38:00",
+    "old_error_mean": 0.11024769305488101,
+    "new_error_mean": 0.0330672748004561,
+    "cut": 4118,
+    "window_after": 877
+  },
+  {
+    "index": 699648,
+    "date": "2023-01-09 13:20:41",
+    "old_error_mean": 0.029341603053435115,
+    "new_error_mean": 0.07682333873581848,
+    "cut": 4192,
+    "window_after": 3085
+  },
+  {
+    "index": 699904,
+    "date": "2023-01-09 13:43:08",
+    "old_error_mean": 0.044797687861271675,
+    "new_error_mean": 0.12173913043478261,
+    "cut": 2076,
+    "window_after": 1265
+  },
+  {
+    "index": 700160,
+    "date": "2023-01-09 14:06:52",
+    "old_error_mean": 0.04554079696394687,
+    "new_error_mean": 0.15090543259557343,
+    "cut": 527,
+    "window_after": 994
+  },
+  {
+    "index": 700416,
+    "date": "2023-01-09 14:27:22",
+    "old_error_mean": 0.2647814910025707,
+    "new_error_mean": 0.06504065040650407,
+    "cut": 389,
+    "window_after": 861
+  },
+  {
+    "index": 701952,
+    "date": "2023-01-09 16:06:55",
+    "old_error_mean": 0.05582137161084529,
+    "new_error_mean": 0.14610673665791776,
+    "cut": 1254,
+    "window_after": 1143
+  },
+  {
+    "index": 702208,
+    "date": "2023-01-09 16:23:59",
+    "old_error_mean": 0.060109289617486336,
+    "new_error_mean": 0.18588235294117647,
+    "cut": 549,
+    "window_after": 850
+  },
+  {
+    "index": 702464,
+    "date": "2023-01-09 16:36:39",
+    "old_error_mean": 0.22434782608695653,
+    "new_error_mean": 0.09227871939736347,
+    "cut": 575,
+    "window_after": 531
+  },
+  {
+    "index": 705536,
+    "date": "2023-01-09 20:11:51",
+    "old_error_mean": 0.06943602183141298,
+    "new_error_mean": 0.1901639344262295,
+    "cut": 3298,
+    "window_after": 305
+  },
+  {
+    "index": 706048,
+    "date": "2023-01-09 21:06:55",
+    "old_error_mean": 0.1901639344262295,
+    "new_error_mean": 0.046875,
+    "cut": 305,
+    "window_after": 512
+  },
+  {
+    "index": 724992,
+    "date": "2023-01-10 21:54:43",
+    "old_error_mean": 0.048151989954686905,
+    "new_error_mean": 0.11676909569798069,
+    "cut": 18317,
+    "window_after": 1139
+  },
+  {
+    "index": 731648,
+    "date": "2023-01-11 08:56:10",
+    "old_error_mean": 0.09414041879289108,
+    "new_error_mean": 0.14630681818181818,
+    "cut": 5683,
+    "window_after": 2112
+  },
+  {
+    "index": 731904,
+    "date": "2023-01-11 09:14:10",
+    "old_error_mean": 0.02857142857142857,
+    "new_error_mean": 0.15906838453914768,
+    "cut": 350,
+    "window_after": 2018
+  },
+  {
+    "index": 732160,
+    "date": "2023-01-11 09:33:17",
+    "old_error_mean": 0.09109518935516889,
+    "new_error_mean": 0.18812644564379338,
+    "cut": 977,
+    "window_after": 1297
+  },
+  {
+    "index": 732416,
+    "date": "2023-01-11 09:57:06",
+    "old_error_mean": 0.07530120481927711,
+    "new_error_mean": 0.20147420147420148,
+    "cut": 332,
+    "window_after": 1221
+  },
+  {
+    "index": 732672,
+    "date": "2023-01-11 10:07:31",
+    "old_error_mean": 0.296875,
+    "new_error_mean": 0.14987714987714987,
+    "cut": 256,
+    "window_after": 1221
+  },
+  {
+    "index": 732928,
+    "date": "2023-01-11 10:15:29",
+    "old_error_mean": 0.53125,
+    "new_error_mean": 0.0904373610081542,
+    "cut": 128,
+    "window_after": 1349
+  },
+  {
+    "index": 733184,
+    "date": "2023-01-11 10:21:55",
+    "old_error_mean": 0.3359375,
+    "new_error_mean": 0.06499661475964794,
+    "cut": 128,
+    "window_after": 1477
+  },
+  {
+    "index": 750592,
+    "date": "2023-01-12 04:56:55",
+    "old_error_mean": 0.05501309835675161,
+    "new_error_mean": 0.10148396361895644,
+    "cut": 16796,
+    "window_after": 2089
+  },
+  {
+    "index": 750848,
+    "date": "2023-01-12 05:33:29",
+    "old_error_mean": 0.05623471882640587,
+    "new_error_mean": 0.1440071556350626,
+    "cut": 1227,
+    "window_after": 1118
+  },
+  {
+    "index": 751104,
+    "date": "2023-01-12 06:36:48",
+    "old_error_mean": 0.06307977736549165,
+    "new_error_mean": 0.17125748502994012,
+    "cut": 539,
+    "window_after": 835
+  },
+  {
+    "index": 751360,
+    "date": "2023-01-12 07:35:37",
+    "old_error_mean": 0.40625,
+    "new_error_mean": 0.11526479750778816,
+    "cut": 128,
+    "window_after": 963
+  },
+  {
+    "index": 751616,
+    "date": "2023-01-12 08:19:01",
+    "old_error_mean": 0.4140625,
+    "new_error_mean": 0.06874427131072411,
+    "cut": 128,
+    "window_after": 1091
+  },
+  {
+    "index": 764416,
+    "date": "2023-01-12 18:40:44",
+    "old_error_mean": 0.04007463291960737,
+    "new_error_mean": 0.09462915601023018,
+    "cut": 12327,
+    "window_after": 1564
+  },
+  {
+    "index": 783360,
+    "date": "2023-01-13 17:55:42",
+    "old_error_mean": 0.08059349182262687,
+    "new_error_mean": 0.03307657453556864,
+    "cut": 17793,
+    "window_after": 2207
+  },
+  {
+    "index": 788224,
+    "date": "2023-01-13 20:14:54",
+    "old_error_mean": 0.036907654921020654,
+    "new_error_mean": 0.1375770020533881,
+    "cut": 6584,
+    "window_after": 487
+  },
+  {
+    "index": 788480,
+    "date": "2023-01-13 20:20:19",
+    "old_error_mean": 0.18435754189944134,
+    "new_error_mean": 0.023376623376623377,
+    "cut": 358,
+    "window_after": 385
+  },
+  {
+    "index": 797696,
+    "date": "2023-01-14 15:00:50",
+    "old_error_mean": 0.06563410519858917,
+    "new_error_mean": 0.02207792207792208,
+    "cut": 6521,
+    "window_after": 3080
+  },
+  {
+    "index": 802048,
+    "date": "2023-01-14 18:46:11",
+    "old_error_mean": 0.022668206757146984,
+    "new_error_mean": 0.13636363636363635,
+    "cut": 6926,
+    "window_after": 506
+  },
+  {
+    "index": 802304,
+    "date": "2023-01-14 19:24:15",
+    "old_error_mean": 0.13620689655172413,
+    "new_error_mean": 0.31868131868131866,
+    "cut": 580,
+    "window_after": 182
+  },
+  {
+    "index": 802560,
+    "date": "2023-01-14 20:15:21",
+    "old_error_mean": 0.35384615384615387,
+    "new_error_mean": 0.12345679012345678,
+    "cut": 195,
+    "window_after": 243
+  },
+  {
+    "index": 802816,
+    "date": "2023-01-14 20:22:00",
+    "old_error_mean": 0.203125,
+    "new_error_mean": 0.5741239892183289,
+    "cut": 128,
+    "window_after": 371
+  },
+  {
+    "index": 803072,
+    "date": "2023-01-14 21:30:28",
+    "old_error_mean": 0.0625,
+    "new_error_mean": 0.5370741482965932,
+    "cut": 128,
+    "window_after": 499
+  },
+  {
+    "index": 803328,
+    "date": "2023-01-14 22:46:47",
+    "old_error_mean": 0.828125,
+    "new_error_mean": 0.32216905901116427,
+    "cut": 128,
+    "window_after": 627
+  },
+  {
+    "index": 803584,
+    "date": "2023-01-15 00:02:20",
+    "old_error_mean": 0.859375,
+    "new_error_mean": 0.1337748344370861,
+    "cut": 128,
+    "window_after": 755
+  },
+  {
+    "index": 803840,
+    "date": "2023-01-15 00:47:07",
+    "old_error_mean": 0.375,
+    "new_error_mean": 0.07474518686296716,
+    "cut": 128,
+    "window_after": 883
+  },
+  {
+    "index": 810240,
+    "date": "2023-01-15 19:14:26",
+    "old_error_mean": 0.08781594296824369,
+    "new_error_mean": 0.0407433881343817,
+    "cut": 3086,
+    "window_after": 4197
+  },
+  {
+    "index": 833792,
+    "date": "2023-01-17 01:52:46",
+    "old_error_mean": 0.032118501136613624,
+    "new_error_mean": 0.06176331918906176,
+    "cut": 13637,
+    "window_after": 6363
+  },
+  {
+    "index": 836864,
+    "date": "2023-01-17 09:02:02",
+    "old_error_mean": 0.06766405984359061,
+    "new_error_mean": 0.17483660130718953,
+    "cut": 8823,
+    "window_after": 612
+  },
+  {
+    "index": 837120,
+    "date": "2023-01-17 09:03:17",
+    "old_error_mean": 0.078125,
+    "new_error_mean": 0.3216216216216216,
+    "cut": 128,
+    "window_after": 740
+  },
+  {
+    "index": 837376,
+    "date": "2023-01-17 09:08:36",
+    "old_error_mean": 0.109375,
+    "new_error_mean": 0.4216589861751152,
+    "cut": 128,
+    "window_after": 868
+  },
+  {
+    "index": 837632,
+    "date": "2023-01-17 09:34:38",
+    "old_error_mean": 0.1171875,
+    "new_error_mean": 0.36244979919678716,
+    "cut": 128,
+    "window_after": 996
+  },
+  {
+    "index": 837888,
+    "date": "2023-01-17 10:04:29",
+    "old_error_mean": 0.0625,
+    "new_error_mean": 0.3291814946619217,
+    "cut": 128,
+    "window_after": 1124
+  },
+  {
+    "index": 838144,
+    "date": "2023-01-17 10:34:10",
+    "old_error_mean": 0.5859375,
+    "new_error_mean": 0.2476038338658147,
+    "cut": 128,
+    "window_after": 1252
+  },
+  {
+    "index": 838400,
+    "date": "2023-01-17 11:04:04",
+    "old_error_mean": 0.609375,
+    "new_error_mean": 0.17753623188405798,
+    "cut": 128,
+    "window_after": 1380
+  },
+  {
+    "index": 838656,
+    "date": "2023-01-17 11:34:46",
+    "old_error_mean": 0.515625,
+    "new_error_mean": 0.1359416445623342,
+    "cut": 128,
+    "window_after": 1508
+  },
+  {
+    "index": 838912,
+    "date": "2023-01-17 12:05:48",
+    "old_error_mean": 0.703125,
+    "new_error_mean": 0.0843520782396088,
+    "cut": 128,
+    "window_after": 1636
+  },
+  {
+    "index": 839168,
+    "date": "2023-01-17 12:34:08",
+    "old_error_mean": 0.265625,
+    "new_error_mean": 0.07369614512471655,
+    "cut": 128,
+    "window_after": 1764
+  },
+  {
+    "index": 846080,
+    "date": "2023-01-17 16:50:20",
+    "old_error_mean": 0.07736842105263157,
+    "new_error_mean": 0.026564344746162927,
+    "cut": 1900,
+    "window_after": 6776
+  },
+  {
+    "index": 856576,
+    "date": "2023-01-18 06:30:45",
+    "old_error_mean": 0.0327424913835549,
+    "new_error_mean": 0.0966796875,
+    "cut": 16248,
+    "window_after": 1024
+  },
+  {
+    "index": 863488,
+    "date": "2023-01-18 13:48:35",
+    "old_error_mean": 0.07172054998141955,
+    "new_error_mean": 0.023884103367267033,
+    "cut": 5382,
+    "window_after": 2554
+  },
+  {
+    "index": 876544,
+    "date": "2023-01-19 05:13:00",
+    "old_error_mean": 0.02168351808990133,
+    "new_error_mean": 0.053506282934738546,
+    "cut": 8209,
+    "window_after": 7401
+  },
+  {
+    "index": 882432,
+    "date": "2023-01-19 16:10:52",
+    "old_error_mean": 0.05873413874325659,
+    "new_error_mean": 0.3125,
+    "cut": 13161,
+    "window_after": 128
+  },
+  {
+    "index": 882688,
+    "date": "2023-01-19 16:26:45",
+    "old_error_mean": 0.31343283582089554,
+    "new_error_mean": 0.1,
+    "cut": 134,
+    "window_after": 250
+  },
+  {
+    "index": 883712,
+    "date": "2023-01-19 18:00:57",
+    "old_error_mean": 0.057803468208092484,
+    "new_error_mean": 0.19915254237288135,
+    "cut": 1038,
+    "window_after": 236
+  },
+  {
+    "index": 883968,
+    "date": "2023-01-19 18:15:39",
+    "old_error_mean": 0.3359375,
+    "new_error_mean": 0.0521978021978022,
+    "cut": 128,
+    "window_after": 364
+  },
+  {
+    "index": 896768,
+    "date": "2023-01-20 10:29:28",
+    "old_error_mean": 0.02705314009661836,
+    "new_error_mean": 0.06511056511056511,
+    "cut": 8280,
+    "window_after": 4884
+  },
+  {
+    "index": 902400,
+    "date": "2023-01-20 13:16:03",
+    "old_error_mean": 0.06515637530072173,
+    "new_error_mean": 0.026772793053545588,
+    "cut": 4988,
+    "window_after": 5528
+  },
+  {
+    "index": 903680,
+    "date": "2023-01-20 13:52:46",
+    "old_error_mean": 0.02784431137724551,
+    "new_error_mean": 0.203125,
+    "cut": 6680,
+    "window_after": 128
+  },
+  {
+    "index": 910848,
+    "date": "2023-01-21 01:16:41",
+    "old_error_mean": 0.0751953125,
+    "new_error_mean": 0.4453125,
+    "cut": 7168,
+    "window_after": 128
+  },
+  {
+    "index": 911104,
+    "date": "2023-01-21 02:00:19",
+    "old_error_mean": 0.4453125,
+    "new_error_mean": 0.05859375,
+    "cut": 128,
+    "window_after": 256
+  },
+  {
+    "index": 915456,
+    "date": "2023-01-21 13:20:41",
+    "old_error_mean": 0.09840055632823366,
+    "new_error_mean": 0.037528868360277134,
+    "cut": 2876,
+    "window_after": 1732
+  },
+  {
+    "index": 920576,
+    "date": "2023-01-21 18:40:21",
+    "old_error_mean": 0.029026372532758336,
+    "new_error_mean": 0.10692588092345079,
+    "cut": 6029,
+    "window_after": 823
+  },
+  {
+    "index": 920832,
+    "date": "2023-01-21 19:13:34",
+    "old_error_mean": 0.023346303501945526,
+    "new_error_mean": 0.16909975669099755,
+    "cut": 257,
+    "window_after": 822
+  },
+  {
+    "index": 922368,
+    "date": "2023-01-22 00:23:24",
+    "old_error_mean": 0.17184035476718404,
+    "new_error_mean": 0.08035714285714286,
+    "cut": 902,
+    "window_after": 1456
+  },
+  {
+    "index": 923136,
+    "date": "2023-01-22 01:43:32",
+    "old_error_mean": 0.07937584803256445,
+    "new_error_mean": 0.17333333333333334,
+    "cut": 1474,
+    "window_after": 750
+  },
+  {
+    "index": 923392,
+    "date": "2023-01-22 02:26:41",
+    "old_error_mean": 0.19800332778702162,
+    "new_error_mean": 0.06666666666666667,
+    "cut": 601,
+    "window_after": 405
+  },
+  {
+    "index": 932864,
+    "date": "2023-01-22 18:51:29",
+    "old_error_mean": 0.03985903511969863,
+    "new_error_mean": 0.0970873786407767,
+    "cut": 8229,
+    "window_after": 1648
+  },
+  {
+    "index": 933120,
+    "date": "2023-01-22 19:29:10",
+    "old_error_mean": 0.02531645569620253,
+    "new_error_mean": 0.14335664335664336,
+    "cut": 474,
+    "window_after": 1430
+  },
+  {
+    "index": 933376,
+    "date": "2023-01-22 20:06:10",
+    "old_error_mean": 0.07492354740061162,
+    "new_error_mean": 0.1744186046511628,
+    "cut": 654,
+    "window_after": 1032
+  },
+  {
+    "index": 933632,
+    "date": "2023-01-22 21:04:24",
+    "old_error_mean": 0.20417287630402384,
+    "new_error_mean": 0.0940032414910859,
+    "cut": 671,
+    "window_after": 617
+  },
+  {
+    "index": 939008,
+    "date": "2023-01-23 08:32:41",
+    "old_error_mean": 0.04927536231884058,
+    "new_error_mean": 0.265625,
+    "cut": 5865,
+    "window_after": 128
+  },
+  {
+    "index": 939264,
+    "date": "2023-01-23 09:06:08",
+    "old_error_mean": 0.265625,
+    "new_error_mean": 0.0390625,
+    "cut": 128,
+    "window_after": 256
+  },
+  {
+    "index": 944896,
+    "date": "2023-01-23 12:32:08",
+    "old_error_mean": 0.03347022587268994,
+    "new_error_mean": 0.10510805500982318,
+    "cut": 4870,
+    "window_after": 1018
+  },
+  {
+    "index": 945152,
+    "date": "2023-01-23 12:39:06",
+    "old_error_mean": 0.03770491803278689,
+    "new_error_mean": 0.14909638554216867,
+    "cut": 610,
+    "window_after": 664
+  },
+  {
+    "index": 945408,
+    "date": "2023-01-23 12:45:55",
+    "old_error_mean": 0.20698924731182797,
+    "new_error_mean": 0.051094890510948905,
+    "cut": 372,
+    "window_after": 548
+  },
+  {
+    "index": 950784,
+    "date": "2023-01-23 18:41:53",
+    "old_error_mean": 0.04929961797344006,
+    "new_error_mean": 0.15456674473067916,
+    "cut": 5497,
+    "window_after": 427
+  },
+  {
+    "index": 952064,
+    "date": "2023-01-23 20:30:25",
+    "old_error_mean": 0.14732142857142858,
+    "new_error_mean": 0.04770017035775128,
+    "cut": 1120,
+    "window_after": 587
+  },
+  {
+    "index": 954368,
+    "date": "2023-01-24 00:50:32",
+    "old_error_mean": 0.038860103626943004,
+    "new_error_mean": 0.11758584807492195,
+    "cut": 1930,
+    "window_after": 961
+  },
+  {
+    "index": 954624,
+    "date": "2023-01-24 01:19:06",
+    "old_error_mean": 0.0631911532385466,
+    "new_error_mean": 0.1797945205479452,
+    "cut": 633,
+    "window_after": 584
+  },
+  {
+    "index": 954880,
+    "date": "2023-01-24 01:45:04",
+    "old_error_mean": 0.328125,
+    "new_error_mean": 0.10393258426966293,
+    "cut": 128,
+    "window_after": 712
+  },
+  {
+    "index": 957952,
+    "date": "2023-01-24 09:02:31",
+    "old_error_mean": 0.10813428018076178,
+    "new_error_mean": 0.19970845481049562,
+    "cut": 3098,
+    "window_after": 686
+  },
+  {
+    "index": 958208,
+    "date": "2023-01-24 09:34:55",
+    "old_error_mean": 0.08173076923076923,
+    "new_error_mean": 0.2262357414448669,
+    "cut": 416,
+    "window_after": 526
+  },
+  {
+    "index": 958464,
+    "date": "2023-01-24 10:10:54",
+    "old_error_mean": 0.3225806451612903,
+    "new_error_mean": 0.13556618819776714,
+    "cut": 155,
+    "window_after": 627
+  },
+  {
+    "index": 958720,
+    "date": "2023-01-24 10:44:12",
+    "old_error_mean": 0.4140625,
+    "new_error_mean": 0.05562913907284768,
+    "cut": 128,
+    "window_after": 755
+  },
+  {
+    "index": 972032,
+    "date": "2023-01-24 21:34:50",
+    "old_error_mean": 0.04197036443732479,
+    "new_error_mean": 0.10176991150442478,
+    "cut": 12485,
+    "window_after": 1582
+  },
+  {
+    "index": 972288,
+    "date": "2023-01-24 21:53:08",
+    "old_error_mean": 0.05625,
+    "new_error_mean": 0.15375854214123008,
+    "cut": 960,
+    "window_after": 878
+  },
+  {
+    "index": 973056,
+    "date": "2023-01-24 23:35:18",
+    "old_error_mean": 0.175,
+    "new_error_mean": 0.061630218687872766,
+    "cut": 640,
+    "window_after": 1006
+  },
+  {
+    "index": 976128,
+    "date": "2023-01-25 06:28:33",
+    "old_error_mean": 0.0650632911392405,
+    "new_error_mean": 0.296875,
+    "cut": 3950,
+    "window_after": 128
+  },
+  {
+    "index": 976384,
+    "date": "2023-01-25 06:55:20",
+    "old_error_mean": 0.39903846153846156,
+    "new_error_mean": 0.17613636363636365,
+    "cut": 208,
+    "window_after": 176
+  },
+  {
+    "index": 980480,
+    "date": "2023-01-25 13:56:43",
+    "old_error_mean": 0.234375,
+    "new_error_mean": 0.05791505791505792,
+    "cut": 128,
+    "window_after": 4144
+  },
+  {
+    "index": 983808,
+    "date": "2023-01-25 15:26:14",
+    "old_error_mean": 0.09234411996842937,
+    "new_error_mean": 0.032070910556003224,
+    "cut": 1267,
+    "window_after": 6205
+  },
+  {
+    "index": 988672,
+    "date": "2023-01-25 18:33:18",
+    "old_error_mean": 0.0320123421078006,
+    "new_error_mean": 0.12034383954154727,
+    "cut": 10371,
+    "window_after": 698
+  },
+  {
+    "index": 988928,
+    "date": "2023-01-25 18:50:17",
+    "old_error_mean": 0.0364963503649635,
+    "new_error_mean": 0.18529411764705883,
+    "cut": 274,
+    "window_after": 680
+  },
+  {
+    "index": 990720,
+    "date": "2023-01-25 21:31:46",
+    "old_error_mean": 0.18565400843881857,
+    "new_error_mean": 0.09142532651902328,
+    "cut": 711,
+    "window_after": 1761
+  },
+  {
+    "index": 1001728,
+    "date": "2023-01-26 14:27:20",
+    "old_error_mean": 0.0696405648267009,
+    "new_error_mean": 0.02981584332066647,
+    "cut": 9348,
+    "window_after": 3421
+  },
+  {
+    "index": 1007616,
+    "date": "2023-01-26 18:47:20",
+    "old_error_mean": 0.030262518230432668,
+    "new_error_mean": 0.09343200740055504,
+    "cut": 8228,
+    "window_after": 1081
+  },
+  {
+    "index": 1020672,
+    "date": "2023-01-27 16:19:10",
+    "old_error_mean": 0.10564898663216904,
+    "new_error_mean": 0.06050093078355052,
+    "cut": 2319,
+    "window_after": 11818
+  },
+  {
+    "index": 1022976,
+    "date": "2023-01-27 17:25:17",
+    "old_error_mean": 0.06952789699570816,
+    "new_error_mean": 0.03619909502262444,
+    "cut": 8155,
+    "window_after": 5967
+  },
+  {
+    "index": 1025280,
+    "date": "2023-01-27 18:59:06",
+    "old_error_mean": 0.03561714803781894,
+    "new_error_mean": 0.13272727272727272,
+    "cut": 7721,
+    "window_after": 550
+  },
+  {
+    "index": 1026816,
+    "date": "2023-01-27 21:38:33",
+    "old_error_mean": 0.16498993963782696,
+    "new_error_mean": 0.076007326007326,
+    "cut": 994,
+    "window_after": 1092
+  },
+  {
+    "index": 1027328,
+    "date": "2023-01-27 22:47:22",
+    "old_error_mean": 0.07404103479036575,
+    "new_error_mean": 0.19047619047619047,
+    "cut": 1121,
+    "window_after": 483
+  },
+  {
+    "index": 1027584,
+    "date": "2023-01-27 23:12:45",
+    "old_error_mean": 0.0703125,
+    "new_error_mean": 0.3158756137479542,
+    "cut": 128,
+    "window_after": 611
+  },
+  {
+    "index": 1027840,
+    "date": "2023-01-27 23:51:13",
+    "old_error_mean": 0.0703125,
+    "new_error_mean": 0.36941813261163736,
+    "cut": 128,
+    "window_after": 739
+  },
+  {
+    "index": 1028096,
+    "date": "2023-01-28 00:10:46",
+    "old_error_mean": 0.37813211845102507,
+    "new_error_mean": 0.2446043165467626,
+    "cut": 439,
+    "window_after": 556
+  },
+  {
+    "index": 1028352,
+    "date": "2023-01-28 00:39:16",
+    "old_error_mean": 0.3551020408163265,
+    "new_error_mean": 0.14814814814814814,
+    "cut": 245,
+    "window_after": 567
+  },
+  {
+    "index": 1028608,
+    "date": "2023-01-28 01:13:40",
+    "old_error_mean": 0.3515625,
+    "new_error_mean": 0.08345323741007195,
+    "cut": 128,
+    "window_after": 695
+  },
+  {
+    "index": 1034240,
+    "date": "2023-01-28 11:18:50",
+    "old_error_mean": 0.08877520312970208,
+    "new_error_mean": 0.038282290279627165,
+    "cut": 3323,
+    "window_after": 3004
+  },
+  {
+    "index": 1039104,
+    "date": "2023-01-28 19:43:30",
+    "old_error_mean": 0.03678521617852162,
+    "new_error_mean": 0.08724202626641651,
+    "cut": 5736,
+    "window_after": 2132
+  },
+  {
+    "index": 1044480,
+    "date": "2023-01-29 10:59:50",
+    "old_error_mean": 0.08713480266529984,
+    "new_error_mean": 0.026586102719033233,
+    "cut": 5853,
+    "window_after": 1655
+  },
+  {
+    "index": 1049856,
+    "date": "2023-01-29 16:51:17",
+    "old_error_mean": 0.03120178295902623,
+    "new_error_mean": 0.1018363939899833,
+    "cut": 5833,
+    "window_after": 1198
+  },
+  {
+    "index": 1055232,
+    "date": "2023-01-30 08:14:01",
+    "old_error_mean": 0.07110726643598615,
+    "new_error_mean": 0.15491183879093198,
+    "cut": 5780,
+    "window_after": 794
+  },
+  {
+    "index": 1056256,
+    "date": "2023-01-30 09:49:36",
+    "old_error_mean": 0.1707035755478662,
+    "new_error_mean": 0.07360672975814932,
+    "cut": 867,
+    "window_after": 951
+  },
+  {
+    "index": 1073920,
+    "date": "2023-01-31 09:00:19",
+    "old_error_mean": 0.048628730216261934,
+    "new_error_mean": 0.09704027171276079,
+    "cut": 16554,
+    "window_after": 2061
+  },
+  {
+    "index": 1074176,
+    "date": "2023-01-31 09:12:12",
+    "old_error_mean": 0.05169340463458111,
+    "new_error_mean": 0.15831435079726652,
+    "cut": 561,
+    "window_after": 1756
+  },
+  {
+    "index": 1074432,
+    "date": "2023-01-31 09:39:40",
+    "old_error_mean": 0.07288135593220339,
+    "new_error_mean": 0.17862165963431786,
+    "cut": 590,
+    "window_after": 1422
+  },
+  {
+    "index": 1074688,
+    "date": "2023-01-31 09:55:17",
+    "old_error_mean": 0.07259953161592506,
+    "new_error_mean": 0.19344524380495604,
+    "cut": 427,
+    "window_after": 1251
+  },
+  {
+    "index": 1074944,
+    "date": "2023-01-31 10:27:52",
+    "old_error_mean": 0.27721088435374147,
+    "new_error_mean": 0.10010881392818281,
+    "cut": 588,
+    "window_after": 919
+  },
+  {
+    "index": 1075200,
+    "date": "2023-01-31 10:55:14",
+    "old_error_mean": 0.3046875,
+    "new_error_mean": 0.05826170009551098,
+    "cut": 128,
+    "window_after": 1047
+  },
+  {
+    "index": 1083648,
+    "date": "2023-01-31 22:25:54",
+    "old_error_mean": 0.05594106971282161,
+    "new_error_mean": 0.265625,
+    "cut": 9367,
+    "window_after": 128
+  },
+  {
+    "index": 1084160,
+    "date": "2023-01-31 22:40:22",
+    "old_error_mean": 0.265625,
+    "new_error_mean": 0.046875,
+    "cut": 128,
+    "window_after": 512
+  },
+  {
+    "index": 1091328,
+    "date": "2023-02-01 08:25:30",
+    "old_error_mean": 0.040288446464963164,
+    "new_error_mean": 0.10069177555726365,
+    "cut": 6379,
+    "window_after": 1301
+  },
+  {
+    "index": 1091584,
+    "date": "2023-02-01 08:52:45",
+    "old_error_mean": 0.056451612903225805,
+    "new_error_mean": 0.15621156211562115,
+    "cut": 744,
+    "window_after": 813
+  },
+  {
+    "index": 1091840,
+    "date": "2023-02-01 09:13:07",
+    "old_error_mean": 0.1939799331103679,
+    "new_error_mean": 0.055201698513800426,
+    "cut": 598,
+    "window_after": 471
+  },
+  {
+    "index": 1149440,
+    "date": "2023-02-05 13:09:54",
+    "old_error_mean": 0.06778381642512077,
+    "new_error_mean": 0.3125,
+    "cut": 19872,
+    "window_after": 128
+  },
+  {
+    "index": 1149696,
+    "date": "2023-02-05 14:11:45",
+    "old_error_mean": 0.3125,
+    "new_error_mean": 0.0703125,
+    "cut": 128,
+    "window_after": 256
+  },
+  {
+    "index": 1150464,
+    "date": "2023-02-05 16:51:42",
+    "old_error_mean": 0.05813953488372093,
+    "new_error_mean": 0.212,
+    "cut": 774,
+    "window_after": 250
+  },
+  {
+    "index": 1152000,
+    "date": "2023-02-05 21:34:14",
+    "old_error_mean": 0.1370056497175141,
+    "new_error_mean": 0.01891891891891892,
+    "cut": 1416,
+    "window_after": 370
+  },
+  {
+    "index": 1152512,
+    "date": "2023-02-05 22:49:41",
+    "old_error_mean": 0.054376657824933686,
+    "new_error_mean": 0.25,
+    "cut": 754,
+    "window_after": 128
+  },
+  {
+    "index": 1153792,
+    "date": "2023-02-06 01:20:52",
+    "old_error_mean": 0.161231884057971,
+    "new_error_mean": 0.04088785046728972,
+    "cut": 552,
+    "window_after": 856
+  },
+  {
+    "index": 1163520,
+    "date": "2023-02-06 18:35:50",
+    "old_error_mean": 0.07941929974380871,
+    "new_error_mean": 0.15953947368421054,
+    "cut": 9368,
+    "window_after": 1216
+  },
+  {
+    "index": 1163776,
+    "date": "2023-02-06 18:52:20",
+    "old_error_mean": 0.05625,
+    "new_error_mean": 0.1909722222222222,
+    "cut": 320,
+    "window_after": 1152
+  },
+  {
+    "index": 1164032,
+    "date": "2023-02-06 19:17:02",
+    "old_error_mean": 0.04417670682730924,
+    "new_error_mean": 0.18723037100949094,
+    "cut": 249,
+    "window_after": 1159
+  },
+  {
+    "index": 1164288,
+    "date": "2023-02-06 19:34:12",
+    "old_error_mean": 0.06989247311827956,
+    "new_error_mean": 0.18887823585810162,
+    "cut": 372,
+    "window_after": 1043
+  },
+  {
+    "index": 1164544,
+    "date": "2023-02-06 19:59:25",
+    "old_error_mean": 0.34065934065934067,
+    "new_error_mean": 0.135183527305282,
+    "cut": 182,
+    "window_after": 1117
+  },
+  {
+    "index": 1164800,
+    "date": "2023-02-06 20:21:42",
+    "old_error_mean": 0.8125,
+    "new_error_mean": 0.04819277108433735,
+    "cut": 128,
+    "window_after": 1245
+  },
+  {
+    "index": 1168640,
+    "date": "2023-02-07 03:54:48",
+    "old_error_mean": 0.05830139197095017,
+    "new_error_mean": 0.28125,
+    "cut": 4957,
+    "window_after": 128
+  },
+  {
+    "index": 1169152,
+    "date": "2023-02-07 05:32:04",
+    "old_error_mean": 0.28125,
+    "new_error_mean": 0.064453125,
+    "cut": 128,
+    "window_after": 512
+  },
+  {
+    "index": 1170432,
+    "date": "2023-02-07 09:00:51",
+    "old_error_mean": 0.07459535538353272,
+    "new_error_mean": 0.20485175202156333,
+    "cut": 1421,
+    "window_after": 371
+  },
+  {
+    "index": 1170688,
+    "date": "2023-02-07 09:25:20",
+    "old_error_mean": 0.0946969696969697,
+    "new_error_mean": 0.256198347107438,
+    "cut": 264,
+    "window_after": 363
+  },
+  {
+    "index": 1170944,
+    "date": "2023-02-07 09:58:37",
+    "old_error_mean": 0.5234375,
+    "new_error_mean": 0.10386965376782077,
+    "cut": 128,
+    "window_after": 491
+  },
+  {
+    "index": 1173248,
+    "date": "2023-02-07 13:41:46",
+    "old_error_mean": 0.07607607607607608,
+    "new_error_mean": 0.15809284818067754,
+    "cut": 1998,
+    "window_after": 797
+  },
+  {
+    "index": 1173504,
+    "date": "2023-02-07 14:02:44",
+    "old_error_mean": 0.06047516198704104,
+    "new_error_mean": 0.1847457627118644,
+    "cut": 463,
+    "window_after": 590
+  },
+  {
+    "index": 1173760,
+    "date": "2023-02-07 14:25:12",
+    "old_error_mean": 0.24206349206349206,
+    "new_error_mean": 0.09427609427609428,
+    "cut": 252,
+    "window_after": 594
+  },
+  {
+    "index": 1174016,
+    "date": "2023-02-07 14:43:52",
+    "old_error_mean": 0.3203125,
+    "new_error_mean": 0.03185595567867036,
+    "cut": 128,
+    "window_after": 722
+  },
+  {
+    "index": 1177344,
+    "date": "2023-02-07 18:53:38",
+    "old_error_mean": 0.04514480408858603,
+    "new_error_mean": 0.14393939393939395,
+    "cut": 3522,
+    "window_after": 528
+  },
+  {
+    "index": 1177856,
+    "date": "2023-02-07 19:47:47",
+    "old_error_mean": 0.1658653846153846,
+    "new_error_mean": 0.04006410256410257,
+    "cut": 416,
+    "window_after": 624
+  },
+  {
+    "index": 1179392,
+    "date": "2023-02-07 22:43:26",
+    "old_error_mean": 0.04265734265734266,
+    "new_error_mean": 0.14246575342465753,
+    "cut": 1430,
+    "window_after": 730
+  },
+  {
+    "index": 1179648,
+    "date": "2023-02-07 23:16:22",
+    "old_error_mean": 0.06206896551724138,
+    "new_error_mean": 0.19419237749546278,
+    "cut": 435,
+    "window_after": 551
+  },
+  {
+    "index": 1179904,
+    "date": "2023-02-07 23:53:42",
+    "old_error_mean": 0.2673992673992674,
+    "new_error_mean": 0.09550561797752809,
+    "cut": 273,
+    "window_after": 534
+  },
+  {
+    "index": 1193216,
+    "date": "2023-02-08 13:43:45",
+    "old_error_mean": 0.06524725274725275,
+    "new_error_mean": 0.031526043253122145,
+    "cut": 7280,
+    "window_after": 6566
+  },
+  {
+    "index": 1198336,
+    "date": "2023-02-08 18:16:20",
+    "old_error_mean": 0.03422782037239869,
+    "new_error_mean": 0.11095890410958904,
+    "cut": 10956,
+    "window_after": 730
+  },
+  {
+    "index": 1198592,
+    "date": "2023-02-08 18:21:05",
+    "old_error_mean": 0.0078125,
+    "new_error_mean": 0.2062937062937063,
+    "cut": 128,
+    "window_after": 858
+  },
+  {
+    "index": 1198848,
+    "date": "2023-02-08 18:31:43",
+    "old_error_mean": 0.07339449541284404,
+    "new_error_mean": 0.25223214285714285,
+    "cut": 218,
+    "window_after": 896
+  },
+  {
+    "index": 1199104,
+    "date": "2023-02-08 18:50:42",
+    "old_error_mean": 0.03125,
+    "new_error_mean": 0.2353515625,
+    "cut": 128,
+    "window_after": 1024
+  },
+  {
+    "index": 1199360,
+    "date": "2023-02-08 19:14:27",
+    "old_error_mean": 0.30612244897959184,
+    "new_error_mean": 0.15474919957310565,
+    "cut": 343,
+    "window_after": 937
+  },
+  {
+    "index": 1199616,
+    "date": "2023-02-08 19:37:36",
+    "old_error_mean": 0.3163841807909605,
+    "new_error_mean": 0.10334645669291338,
+    "cut": 177,
+    "window_after": 1016
+  },
+  {
+    "index": 1199872,
+    "date": "2023-02-08 20:10:07",
+    "old_error_mean": 0.3125,
+    "new_error_mean": 0.06993006993006994,
+    "cut": 128,
+    "window_after": 1144
+  },
+  {
+    "index": 1203200,
+    "date": "2023-02-09 04:10:40",
+    "old_error_mean": 0.06837016574585636,
+    "new_error_mean": 0.2890625,
+    "cut": 4344,
+    "window_after": 128
+  },
+  {
+    "index": 1203712,
+    "date": "2023-02-09 05:34:10",
+    "old_error_mean": 0.2905405405405405,
+    "new_error_mean": 0.09349593495934959,
+    "cut": 148,
+    "window_after": 492
+  },
+  {
+    "index": 1220608,
+    "date": "2023-02-10 13:22:18",
+    "old_error_mean": 0.07207556935817805,
+    "new_error_mean": 0.12939958592132506,
+    "cut": 15456,
+    "window_after": 1932
+  },
+  {
+    "index": 1223936,
+    "date": "2023-02-10 17:33:52",
+    "old_error_mean": 0.1308980213089802,
+    "new_error_mean": 0.0732745515354211,
+    "cut": 1971,
+    "window_after": 3289
+  },
+  {
+    "index": 1227264,
+    "date": "2023-02-10 21:11:47",
+    "old_error_mean": 0.08106151990349819,
+    "new_error_mean": 0.02953074433656958,
+    "cut": 4145,
+    "window_after": 2472
+  },
+  {
+    "index": 1230848,
+    "date": "2023-02-11 04:14:25",
+    "old_error_mean": 0.03242467718794835,
+    "new_error_mean": 0.08479190976273823,
+    "cut": 3485,
+    "window_after": 2571
+  },
+  {
+    "index": 1234176,
+    "date": "2023-02-11 15:49:06",
+    "old_error_mean": 0.08987943003288272,
+    "new_error_mean": 0.1952941176470588,
+    "cut": 5474,
+    "window_after": 425
+  },
+  {
+    "index": 1234432,
+    "date": "2023-02-11 16:46:52",
+    "old_error_mean": 0.24183006535947713,
+    "new_error_mean": 0.088,
+    "cut": 306,
+    "window_after": 375
+  },
+  {
+    "index": 1240064,
+    "date": "2023-02-12 13:00:05",
+    "old_error_mean": 0.10954243919033849,
+    "new_error_mean": 0.2890625,
+    "cut": 5879,
+    "window_after": 128
+  },
+  {
+    "index": 1242880,
+    "date": "2023-02-13 00:01:51",
+    "old_error_mean": 0.2121951219512195,
+    "new_error_mean": 0.10812943962115233,
+    "cut": 410,
+    "window_after": 2534
+  },
+  {
+    "index": 1251584,
+    "date": "2023-02-13 17:28:38",
+    "old_error_mean": 0.10071090047393365,
+    "new_error_mean": 0.06341463414634146,
+    "cut": 5908,
+    "window_after": 5330
+  },
+  {
+    "index": 1259520,
+    "date": "2023-02-14 08:50:05",
+    "old_error_mean": 0.06002879610145088,
+    "new_error_mean": 0.09700259617654,
+    "cut": 9029,
+    "window_after": 4237
+  },
+  {
+    "index": 1259776,
+    "date": "2023-02-14 09:01:44",
+    "old_error_mean": 0.06274509803921569,
+    "new_error_mean": 0.140224589691909,
+    "cut": 1020,
+    "window_after": 3473
+  },
+  {
+    "index": 1260032,
+    "date": "2023-02-14 09:01:51",
+    "old_error_mean": 0.09763313609467456,
+    "new_error_mean": 0.2030789387487717,
+    "cut": 676,
+    "window_after": 3053
+  },
+  {
+    "index": 1260288,
+    "date": "2023-02-14 09:33:15",
+    "old_error_mean": 0.10022271714922049,
+    "new_error_mean": 0.21083916083916085,
+    "cut": 449,
+    "window_after": 2860
+  },
+  {
+    "index": 1260544,
+    "date": "2023-02-14 09:58:02",
+    "old_error_mean": 0.09844559585492228,
+    "new_error_mean": 0.22467481277098936,
+    "cut": 579,
+    "window_after": 2537
+  },
+  {
+    "index": 1260800,
+    "date": "2023-02-14 10:34:31",
+    "old_error_mean": 0.0390625,
+    "new_error_mean": 0.21726078799249532,
+    "cut": 128,
+    "window_after": 2665
+  },
+  {
+    "index": 1261056,
+    "date": "2023-02-14 10:35:19",
+    "old_error_mean": 0.05223880597014925,
+    "new_error_mean": 0.21296645307199397,
+    "cut": 268,
+    "window_after": 2653
+  },
+  {
+    "index": 1261312,
+    "date": "2023-02-14 10:44:43",
+    "old_error_mean": 0.12099125364431487,
+    "new_error_mean": 0.21952316689158793,
+    "cut": 686,
+    "window_after": 2223
+  },
+  {
+    "index": 1261568,
+    "date": "2023-02-14 11:18:45",
+    "old_error_mean": 0.10220994475138122,
+    "new_error_mean": 0.22106754841757204,
+    "cut": 362,
+    "window_after": 2117
+  },
+  {
+    "index": 1261824,
+    "date": "2023-02-14 11:46:18",
+    "old_error_mean": 0.46875,
+    "new_error_mean": 0.18841870824053453,
+    "cut": 128,
+    "window_after": 2245
+  },
+  {
+    "index": 1262080,
+    "date": "2023-02-14 12:03:15",
+    "old_error_mean": 0.578125,
+    "new_error_mean": 0.15887062789717657,
+    "cut": 128,
+    "window_after": 2373
+  },
+  {
+    "index": 1262336,
+    "date": "2023-02-14 12:26:41",
+    "old_error_mean": 0.765625,
+    "new_error_mean": 0.11915233906437425,
+    "cut": 128,
+    "window_after": 2501
+  },
+  {
+    "index": 1262592,
+    "date": "2023-02-14 12:53:00",
+    "old_error_mean": 0.765625,
+    "new_error_mean": 0.08178014454165082,
+    "cut": 128,
+    "window_after": 2629
+  },
+  {
+    "index": 1262848,
+    "date": "2023-02-14 13:17:52",
+    "old_error_mean": 0.546875,
+    "new_error_mean": 0.058759521218716,
+    "cut": 128,
+    "window_after": 2757
+  },
+  {
+    "index": 1296128,
+    "date": "2023-02-16 18:53:42",
+    "old_error_mean": 0.07244421963693587,
+    "new_error_mean": 0.12052560036248301,
+    "cut": 17793,
+    "window_after": 2207
+  },
+  {
+    "index": 1296384,
+    "date": "2023-02-16 19:15:15",
+    "old_error_mean": 0.05790960451977401,
+    "new_error_mean": 0.14586894586894586,
+    "cut": 708,
+    "window_after": 1755
+  },
+  {
+    "index": 1296640,
+    "date": "2023-02-16 19:38:50",
+    "old_error_mean": 0.03950617283950617,
+    "new_error_mean": 0.15940224159402241,
+    "cut": 405,
+    "window_after": 1606
+  },
+  {
+    "index": 1296896,
+    "date": "2023-02-16 20:05:16",
+    "old_error_mean": 0.08955223880597014,
+    "new_error_mean": 0.19187145557655955,
+    "cut": 804,
+    "window_after": 1058
+  },
+  {
+    "index": 1297152,
+    "date": "2023-02-16 20:29:20",
+    "old_error_mean": 0.5625,
+    "new_error_mean": 0.12141652613827993,
+    "cut": 128,
+    "window_after": 1186
+  },
+  {
+    "index": 1297408,
+    "date": "2023-02-16 20:58:29",
+    "old_error_mean": 0.3984375,
+    "new_error_mean": 0.07990867579908675,
+    "cut": 128,
+    "window_after": 1314
+  },
+  {
+    "index": 1304832,
+    "date": "2023-02-17 11:11:15",
+    "old_error_mean": 0.07566089334548769,
+    "new_error_mean": 0.11958192437749769,
+    "cut": 5485,
+    "window_after": 3253
+  },
+  {
+    "index": 1329408,
+    "date": "2023-02-20 01:44:59",
+    "old_error_mean": 0.09349838969404187,
+    "new_error_mean": 0.390625,
+    "cut": 19872,
+    "window_after": 128
+  },
+  {
+    "index": 1329664,
+    "date": "2023-02-20 02:19:04",
+    "old_error_mean": 0.390625,
+    "new_error_mean": 0.15625,
+    "cut": 128,
+    "window_after": 256
+  },
+  {
+    "index": 1332992,
+    "date": "2023-02-20 10:12:36",
+    "old_error_mean": 0.13502722323049002,
+    "new_error_mean": 0.05066344993968637,
+    "cut": 2755,
+    "window_after": 829
+  },
+  {
+    "index": 1344000,
+    "date": "2023-02-21 05:42:05",
+    "old_error_mean": 0.07064543807798646,
+    "new_error_mean": 0.12759643916913946,
+    "cut": 10489,
+    "window_after": 1348
+  },
+  {
+    "index": 1345536,
+    "date": "2023-02-21 09:00:18",
+    "old_error_mean": 0.11211901306240929,
+    "new_error_mean": 0.4140625,
+    "cut": 2756,
+    "window_after": 128
+  },
+  {
+    "index": 1345792,
+    "date": "2023-02-21 09:12:28",
+    "old_error_mean": 0.5495495495495496,
+    "new_error_mean": 0.3395061728395062,
+    "cut": 222,
+    "window_after": 162
+  },
+  {
+    "index": 1346048,
+    "date": "2023-02-21 09:36:51",
+    "old_error_mean": 0.40625,
+    "new_error_mean": 0.07586206896551724,
+    "cut": 128,
+    "window_after": 290
+  },
+  {
+    "index": 1360896,
+    "date": "2023-02-22 07:48:35",
+    "old_error_mean": 0.06595576619273302,
+    "new_error_mean": 0.1089588377723971,
+    "cut": 12660,
+    "window_after": 2478
+  },
+  {
+    "index": 1381120,
+    "date": "2023-02-23 14:44:00",
+    "old_error_mean": 0.08834935086831901,
+    "new_error_mean": 0.03987313094698686,
+    "cut": 17793,
+    "window_after": 2207
+  }
+]

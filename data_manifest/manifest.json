@@ -1,0 +1,94 @@
+{
+  "dataset": {
+    "allowed_labels": [
+      "benign",
+      "phishing"
+    ],
+    "config": "urls_without_dns",
+    "date_column": "first_seen",
+    "excluded_labels": [
+      "mal"
+    ],
+    "label_column": "label",
+    "repository": "davanstrien/DeepURLBench",
+    "split": "train",
+    "url_column": "url"
+  },
+  "date_usage": "Split boundaries and chronological ordering only; never a model input.",
+  "deduplication": "Global URL deduplication before binary-label filtering and splitting; retained the earliest first_seen record per URL.",
+  "duplicate_urls_across_splits": 0,
+  "label_map": {
+    "benign": 0,
+    "phishing": 1
+  },
+  "library_versions": {
+    "datasets": "4.8.5",
+    "duckdb": "1.3.2",
+    "numpy": "2.5.5",
+    "pandas": "2.3.3",
+    "platform": "Linux-6.18.55+-x86_64-with-glibc2.39",
+    "pyarrow": "23.0.1",
+    "python": "3.13.18",
+    "torch": "2.11.0+cpu"
+  },
+  "rows_in_requested_period_after_deduplication": 15708928,
+  "rows_in_requested_period_before_deduplication": 18021760,
+  "seed": 2025,
+  "splits": {
+    "test": {
+      "class_counts": [
+        {
+          "label": "benign",
+          "row_count": 1162990
+        },
+        {
+          "label": "phishing",
+          "row_count": 265269
+        }
+      ],
+      "max_date": "2023-02-28 23:57:50",
+      "min_date": "2022-12-01 00:00:00",
+      "monthly_class_counts_file": "/kaggle/working/charcnn/data/test_monthly_class_counts.csv",
+      "path": "/kaggle/working/charcnn/data/test.parquet",
+      "rows": 1428259
+    },
+    "train": {
+      "class_counts": [
+        {
+          "label": "benign",
+          "row_count": 7836493
+        },
+        {
+          "label": "phishing",
+          "row_count": 5491024
+        }
+      ],
+      "max_date": "2022-08-31 23:59:44",
+      "min_date": "2021-07-01 00:00:05",
+      "monthly_class_counts_file": "/kaggle/working/charcnn/data/train_monthly_class_counts.csv",
+      "path": "/kaggle/working/charcnn/data/train.parquet",
+      "rows": 13327517
+    },
+    "validation": {
+      "class_counts": [
+        {
+          "label": "benign",
+          "row_count": 463567
+        },
+        {
+          "label": "phishing",
+          "row_count": 121501
+        }
+      ],
+      "max_date": "2022-11-30 23:59:55",
+      "min_date": "2022-11-01 00:00:01",
+      "monthly_class_counts_file": "/kaggle/working/charcnn/data/validation_monthly_class_counts.csv",
+      "path": "/kaggle/working/charcnn/data/validation.parquet",
+      "rows": 585068
+    }
+  },
+  "task_labels": [
+    "benign",
+    "phishing"
+  ]
+}

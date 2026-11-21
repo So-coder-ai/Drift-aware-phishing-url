@@ -1,9 +1,10 @@
 # Model artifacts
 
-Large model files are stored in the private Kaggle Dataset
-`charcnn-training-artifacts`, not in Git.
+`selected/` contains the final selected checkpoint and its small supporting
+artifacts. These were exported from the private Kaggle Dataset
+`charcnn-training-artifacts` after training completed.
 
-Required artifacts for reproducible frozen testing are:
+Required files for reproducible frozen testing are:
 
 - `best_model.pt` - selected CharCNN weights from validation.
 - `vocab.json` - character vocabulary built from training URLs only.
@@ -13,4 +14,5 @@ Required artifacts for reproducible frozen testing are:
 - `validation_mmd_reference_embeddings.npz` - November reference embeddings.
 
 The selected checkpoint was epoch 7 of the full eight-epoch run. It must be
-loaded in `eval()` mode and never updated in the frozen online test.
+loaded in `eval()` mode and never updated in the frozen online test. The eight
+resumable epoch checkpoints are retained in Kaggle rather than duplicated here.

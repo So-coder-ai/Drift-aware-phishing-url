@@ -19,3 +19,7 @@ CharCNN.
 The private prepared-data Dataset contains `train.parquet`,
 `validation.parquet`, `test.parquet`, class-count CSV files, `audit.json`,
 `manifest.json`, and `label_map.json`.
+
+This folder includes the small audit, manifest, label map, and monthly count
+files. The three large Parquet split files remain in the private Kaggle Dataset
+and local backup, rather than GitHub.

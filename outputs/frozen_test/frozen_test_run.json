@@ -1,0 +1,8 @@
+{
+  "mode": "model.eval + torch.inference_mode",
+  "device": "cpu",
+  "threshold": 0.3599999999999999,
+  "rows": 1428259,
+  "macro_f1": 0.8845682587833252,
+  "date_order_verified": true
+}

@@ -1,0 +1,24 @@
+{
+  "gamma": 9.013700764626265e-05,
+  "null_threshold_95": 0.0010416150093078614,
+  "months": {
+    "2022-12": {
+      "mmd2": 0.031054556369781494,
+      "alert_threshold": 0.0010416150093078614,
+      "drift_alert": true,
+      "sample_rows": 2000
+    },
+    "2023-01": {
+      "mmd2": 0.04378026723861694,
+      "alert_threshold": 0.0010416150093078614,
+      "drift_alert": true,
+      "sample_rows": 2000
+    },
+    "2023-02": {
+      "mmd2": 0.04416877031326294,
+      "alert_threshold": 0.0010416150093078614,
+      "drift_alert": true,
+      "sample_rows": 2000
+    }
+  }
+}

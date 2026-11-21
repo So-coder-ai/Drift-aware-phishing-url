@@ -1,0 +1,4 @@
+{
+  "cnn_weights": "frozen",
+  "label_feedback": "immediate; ADWIN errors and RL rewards update after each daily batch"
+}
